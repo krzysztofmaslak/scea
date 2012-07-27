@@ -25,25 +25,47 @@
 		</table>
 		<div id="tblCnt">
 			<h3>Table of Contents</h3>
-			<ol class="toc">
-				<li><span><a href="#assumptions">Assumptions</a></span></li>
-				<li><span><a href="#sysoverview">Brief System Overview</a></span></li>
-				<li><span><a href="#classdiag">Class Diagram</a></span></li>
-				<li><span><a href="#compdiag">Component Diagram</a></span></li>
-				<li><span><a href="#depdiag">Deployment Diagram</a></span></li>
-				<li><span><a href="#seqdiag">Sequence Diagrams</a></span>
-					<ol>
-						<li><span><a href="#postreq">Post Request</a></span></li>
-						<li><span><a href="#provadv">Provide Advice</a></span></li>
-						<li><span><a href="#postclar">Review Advice, Request Clarification</a></span></li>
-						<li><span><a href="#respreq">Respond to Additional Request</a></span></li>
-					</ol>
-				</li>
-				<li><span><a href="#riskmit">Risks and Mitigations</a></span></li>
-			</ol>
+			<table>
+				<tr>
+					<td><span>1. <a href="#assumptions">Assumptions</a></span></td>
+				</tr>
+				<tr>
+					<td><span>2. <a href="#sysoverview">Brief System Overview</a></span></td>
+				</tr>
+				<tr>
+					<td><span>3. <a href="#classdiag">Class Diagram</a></span></td>
+				</tr>
+				<tr>
+					<td><span>4. <a href="#compdiag">Component Diagram</a></span></td>
+				</tr>
+				<tr>
+					<td><span>5. <a href="#depdiag">Deployment Diagram</a></span></td>
+				</tr>
+				<tr>
+					<td><span>6. <a href="#seqdiag">Sequence Diagrams</a></span>
+					<table>
+						<tr>
+							<td><span>6.1. <a href="#postreq">Post Request</a></span></td>
+						</tr>
+						<tr>
+							<td><span>6.2. <a href="#provadv">Provide Advice</a></span></td>
+						</tr>
+						<tr>
+							<td><span>6.3. <a href="#postclar">Review Advice, Request Clarification</a></span></td>
+						</tr>
+						<tr>
+							<td><span>6.4. <a href="#respreq">Respond to Additional Request</a></span></td>
+						</tr>
+					</table>
+					</td>
+				</tr>
+				<tr>
+					<td><span>7. <a href="#riskmit">Risks and Mitigations</a></span></td>
+				</tr>
+			</table>
 		</div>
 		<div id="assumptions">
-			<a name="assumptions"></a><h3>Assumptions</h3>
+			<a name="assumptions"></a><h3>1. Assumptions</h3>
 			<ul>
 				<li>Every Doctor can act as a consultant providing advice in his specialisation field.</li>
 				<li>Recording of agreed and implemented recommendations (X-rays, prescriptions, patient history) will be done through external system. All new data, attached to doctor's request, will be available through TeamDoctor solution in read-only mode when reviewing request.</li>
@@ -52,50 +74,50 @@
 			</ul>	
 		</div>
 		<div id="sysoverview">
-			<a name="sysoverview"></a><h3>Brief System Overview</h3>
+			<a name="sysoverview"></a><h3>2. Brief System Overview</h3>
 			TeamDoctor system was designed as a Java Enterprise application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives.	
 				
 		</div>
 		<div id="classdiag">
-			<a name="classdiag"></a><h3>Class Diagram</h3>
+			<a name="classdiag"></a><h3>3. Class Diagram</h3>
 			<img src="class_diagram.jpg" style="width:900px;"/><br/>
 			<a href="class_diagram.jpg">Click to enlarge</a>
 		</div>
 		<div id="compdiag">
-			<a name="compdiag"></a><h3>Component Diagram</h3>
+			<a name="compdiag"></a><h3>4. Component Diagram</h3>
 			<img src="component_diagram.jpg" style="width:900px;" /><br/>
 			<a href="component_diagram.jpg">Click to enlarge</a>
 		</div>
 		<div id="depdiag">
-			<a name="depdiag"></a><h3>Deployment Diagram</h3>		
+			<a name="depdiag"></a><h3>5. Deployment Diagram</h3>		
 			<img src="deployment_diagram.jpg" style="width:900px;"/><br/>
 			<a href="deployment_diagram.jpg">Click to enlarge</a>
 		</div>
 		<div id="seqdiag">
-			<a name="seqdiag"></a><h3>Sequence Diagrams</h3>
+			<a name="seqdiag"></a><h3>6. Sequence Diagrams</h3>
 			<div id="postreq">
-				<a name="postreq"></a><h3>Post Request</h3>
+				<a name="postreq"></a><h4>6.1. Post Request</h4>
 				<img src="post_request_seq_diagram.jpg" style="width:900px;"/><br/>
 				<a href="post_request_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="provadv">
-				<a name="provadv"></a><h3>Provide Advice</h3>
+				<a name="provadv"></a><h4>6.2. Provide Advice</h4>
 				<img src="provide_advice_seq_diagram.jpg" style="width:900px;"/><br/>
 				<a href="provide_advice_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="postclar">
-				<a name="postclar"></a><h3>Review Advice, Request Clarification</h3>
+				<a name="postclar"></a><h4>6.3. Review Advice, Request Clarification</h4>
 				<img src="review_request_clarification_seq_diagram.jpg" style="width:900px;"/><br/>
 				<a href="review_request_clarification_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="respreq">
-				<a name="respreq"></a><h3>Respond to Additional Request</h3>
+				<a name="respreq"></a><h4>6.4. Respond to Additional Request</h4>
 				<img src="respond_to_additional_request_seq_diagram.jpg" style="width:900px;"/><br/>
 				<a href="respond_to_additional_request_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 		</div>
 		<div id="riskmit">
-			<a name="riskmit"></a><h3>Risks and Mitigations</h3>
+			<a name="riskmit"></a><h3>7. Risks and Mitigations</h3>
 			<ul>
 				<li>
 					More hospitals can join the program.<br/>
