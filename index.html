@@ -46,13 +46,14 @@
 			<a name="assumptions"></a><h3>Assumptions</h3>
 			<ul>
 				<li>Every Doctor can act as a consultant providing advice in his specialisation field.</li>
-				<li>Recording of agreed and implemented recommendations (X-rays, prescriptions, patient history) will be done through external system. All new data, attached to doctor's request, will be available through TeamDoctor solution in read-only when reviewing request.</li>
+				<li>Recording of agreed and implemented recommendations (X-rays, prescriptions, patient history) will be done through external system. All new data, attached to doctor's request, will be available through TeamDoctor solution in read-only mode when reviewing request.</li>
 				<li>Example system infrastructure requirements described in deployment diagram are based on the assumption that every hospital have 1000 active users (doctors or consultants) which gives 20 000 users for the whole system.</li>
+				<li>Only data provided from external rich content system is in form of files, data provided from prescription and patient history systems is in textual form.</li>
 			</ul>	
 		</div>
 		<div id="sysoverview">
 			<a name="sysoverview"></a><h3>Brief System Overview</h3>
-			TeamDoctor system was designed as a Java Enterprise application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using messages with JMS technology.	
+			TeamDoctor system was designed as a Java Enterprise application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives.	
 				
 		</div>
 		<div id="classdiag">
@@ -95,6 +96,20 @@
 		</div>
 		<div id="riskmit">
 			<a name="riskmit"></a><h3>Risks and Mitigations</h3>
+			<ul>
+				<li>
+					More hospitals can join the program.<br/>
+					<div class="mitigation">Mitigation: Provided architecture allows both vertical as well as horizontal scalling. In case of experienced slowness in clustered database due to increased number of active users caching system can be introduced.</div>
+				</li>
+				<li>
+					File in external system was updated after request was created. Issue here is that system was designed to by highly available, data is stored in clustered RDBS but files are replicated using asynchronous messages. Request itself may be available to review in a given data center but files might not yet be replicated, which will cause TeamDoctor system to make a request to external system to download again attached file. Downloaded file might be different then file attached when creating request.<br/>
+					<div class="mitigation">Mitigation: When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
+				</li>
+				<li>
+					Data center can incur technical problems.<br/>
+					<div class="mitigation">Mitigation: Described above architecture will allow system to fallback to remaining data centres without interruption.</div>
+				</li>
+			</ul>
 		</div>
 	</body>
 </html>
