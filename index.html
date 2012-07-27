@@ -1,11 +1,19 @@
 <html>
 	<head>
 		<style type="text/css">
+			#content {margin: 10px;}
+			#header {width: 500px;}
 			#tblCnt { width: 450px; }
+			#tblCnt td { background:none; }
+			#tblCnt table {margin-bottom:0px;}
+			#content h3 {margin-bottom:4px; margin-top:10px;}
+			.mitigationTitle {font-weight:bold;}
 		</style>
+		<link rel="stylesheet" href="stylesheet.css"></link>
 	</head>
 	<body>
-		<table>
+		<div id="content">
+		<table id="header">
 			<tr>
 				<td>Title</td>
 				<td>Assignment for Oracle Certified Enterprise Architect</td>
@@ -121,21 +129,22 @@
 			<ul>
 				<li>
 					More hospitals can join the program.<br/>
-					<div class="mitigation">Mitigation: Provided architecture allows both vertical as well as horizontal scalling. In case of experienced slowness in clustered database due to increased number of active users caching system can be introduced.</div>
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> Provided architecture allows both vertical as well as horizontal scalling. In case of experienced slowness in clustered database due to increased number of active users caching system can be introduced.</div>
 				</li>
 				<li>
 					File in external system was updated after request was created. Issue here is that system was designed to by highly available, data is stored in clustered RDBS but files are replicated using asynchronous messages. Request itself may be available to review in a given data center but files might not yet be replicated, which will cause TeamDoctor system to make a request to external system to download again attached file. Downloaded file might be different then file attached when creating request.<br/>
-					<div class="mitigation">Mitigation: This was not included in sequence diagrams as this is exceptional case. When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span>Fallback to try to download file from external system in case of missing file locally was included in sequence diagrams but specific handling for this issue was not as this is exceptional case. When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
 				</li>
 				<li>
 					New file attached to request (X-ray or MRI scan), that does not exist yet in external system, is not available/was not replicated yet in other data center when reviewing request.
-					<div class="mitigation">Mitigation: The issue was not included in sequence diagrams, as this is less likely scenario as data centres operate in different time zones, their business hours are different. As a mitigation though, user should be presented with loading panel and explicit message. Cometd technology could be used to check file availability and in case of successful replication file could be displayed to end user.</div> 
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> The issue was not included in sequence diagrams, as this is less likely scenario as data centres operate in different time zones, their business hours are different. As a mitigation though, user should be presented with loading panel and explicit message. Cometd technology could be used to check file availability and in case of successful replication file could be displayed to end user.</div> 
 				</li>
 				<li>
 					Data center can incur technical problems.<br/>
-					<div class="mitigation">Mitigation: Described above architecture will allow system to fallback to remaining data centres without serious interruption. One inconvenience will be that users that were using data center that failed will have to login again to TeamDoctor system.</div>
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> Described above architecture will allow system to fallback to remaining data centres without serious interruption. One inconvenience will be that users that were using data center that failed will have to login again to TeamDoctor system.</div>
 				</li>
 			</ul>
+		</div>
 		</div>
 	</body>
 </html>
