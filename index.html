@@ -70,7 +70,7 @@
 				<li>Every Doctor can act as a consultant providing advice in his specialisation field.</li>
 				<li>Recording of agreed and implemented recommendations (X-rays, prescriptions, patient history) will be done through external system. All new data, attached to doctor's request, will be available through TeamDoctor solution in read-only mode when reviewing request.</li>
 				<li>Example system infrastructure requirements described in deployment diagram are based on the assumption that every hospital have 1000 active users (doctors or consultants) which gives 20 000 users for the whole system.</li>
-				<li>Only data provided from external rich content system is in form of files, data provided from prescription and patient history systems is in textual form.</li>
+				<li>Data provided from external rich content system is in binary form, data provided from prescription and patient history systems is in textual form.</li>
 			</ul>	
 		</div>
 		<div id="sysoverview">
@@ -125,7 +125,11 @@
 				</li>
 				<li>
 					File in external system was updated after request was created. Issue here is that system was designed to by highly available, data is stored in clustered RDBS but files are replicated using asynchronous messages. Request itself may be available to review in a given data center but files might not yet be replicated, which will cause TeamDoctor system to make a request to external system to download again attached file. Downloaded file might be different then file attached when creating request.<br/>
-					<div class="mitigation">Mitigation: When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
+					<div class="mitigation">Mitigation: This was not included in sequence diagrams as this is exceptional case. When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
+				</li>
+				<li>
+					New file attached to request (X-ray or MRI scan), that does not exist yet in external system, is not available/was not replicated yet in other data center when reviewing request.
+					<div class="mitigation">Mitigation: The issue was not included in sequence diagrams, as this is less likely scenario as data centres operate in different time zones, their business hours are different. As a mitigation though, user should be presented with loading panel and explicit message. Cometd technology could be used to check file availability and in case of successful replication file could be displayed to end user.</div> 
 				</li>
 				<li>
 					Data center can incur technical problems.<br/>
