@@ -31,6 +31,10 @@
 				<td>Notes</td>
 				<td>To view diagrams First 'click to enlarge'</td>
 			</tr>
+			<tr>
+				<td>Document date</td>
+				<td>28 July 2012</td>
+			</tr>
 		</table>
 		<div id="tblCnt">
 			<h3>Table of Contents</h3>
@@ -84,7 +88,7 @@
 		</div>
 		<div id="sysoverview">
 			<a name="sysoverview"></a><h3>2. Brief System Overview</h3>
-			TeamDoctor system was designed as a Java Enterprise application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives. TeamDoctor solution was designed to use JDBC in data access layer. All pages are accessible only for logged in users. Authentication mechanism will be provided by the container accompanied by JDBC realm.
+			TeamDoctor system was designed as a Java Enterprise Edition 5 application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives. TeamDoctor solution was designed to use JDBC in data access layer. Data access layer was designed as a set of Stateless Session Beans. All pages are accessible only for logged in users. Authentication mechanism will be provided by the container accompanied by JDBC realm.
 	
 				
 		</div>
