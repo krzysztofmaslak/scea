@@ -44464,6 +44464,7 @@ as JMS provider
 <XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="at+/IUWi7EW4WG4Kf24AqgAA">
 <XPD:ATTR name="Name" type="string">reqMgr</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">RequestManager</XPD:ATTR>
 <XPD:REF name="Type_">ezH9w25/DEaw6HBxaHcXfgAA</XPD:REF>
 <XPD:REF name="Owner">tke6CetJxUW5F99xDy6lAwAA</XPD:REF>
