@@ -33796,7 +33796,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="5/mh8WKzHUyO62/kj6zoDAAA">
 <XPD:ATTR name="Alpha" type="real">-4.6128010074523</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">11.0453610171873</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">multi master replication</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">synchronous multi master replication</XPD:ATTR>
 <XPD:REF name="Model">Q6a519ROFE+R9nM8iiTgvwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ZMPvyE+G8EioBWCfuYDcdAAA">
@@ -35276,7 +35276,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="DJCBk4SXBUuDACOoVonPOgAA">
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">multi master replication</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">synchronous multi master replication</XPD:ATTR>
 <XPD:REF name="Model">Wk03A5MuzEOvAOtdpPd8EAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="+gagrD9FzEWcjpYX1EF+0AAA">
@@ -37477,7 +37477,7 @@ as JMS provider
 <XPD:REF name="Views[3]">b0xg9suXOEC8fP2uCCzmmQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[118]" type="UMLAssociation" guid="Q6a519ROFE+R9nM8iiTgvwAA">
-<XPD:ATTR name="Name" type="string">multi master replication</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">synchronous multi master replication</XPD:ATTR>
 <XPD:REF name="Namespace">4i2xRCCqgECshcS68wSNnwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">ZmjnX51VJUelXtFv0oeGWQAA</XPD:REF>
@@ -38017,7 +38017,7 @@ as JMS provider
 <XPD:REF name="Associations[0]">op9cUyRvBEmNsaF9l2wiowAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[159]" type="UMLAssociation" guid="Wk03A5MuzEOvAOtdpPd8EAAA">
-<XPD:ATTR name="Name" type="string">multi master replication</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">synchronous multi master replication</XPD:ATTR>
 <XPD:REF name="Namespace">4i2xRCCqgECshcS68wSNnwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">0Mj/bRQTdkK71bq5sKX51QAA</XPD:REF>
