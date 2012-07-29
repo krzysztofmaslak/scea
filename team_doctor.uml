@@ -29266,7 +29266,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="RKU/PmZOt0CEY0Sf3EDhRAAA">
 <XPD:ATTR name="Alpha" type="real">-5.4977866117202</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">25.4558441227157</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">xYAONbAfpk6LveYnkBn+rwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="ZcAauv0PU0OUPxNwmaYLoQAA">
@@ -29292,7 +29292,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="LxD7RZa3jUa32nx5XpgUtAAA">
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="PDQlWmgYSESFvKeGyFJuogAA">
@@ -29368,7 +29368,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="UOuDaZSK3kqbVNuRhpcudgAA">
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">PHw591nCJ0OaymenEZjGzQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="/UXvVeEJZke3ksx737j1vAAA">
@@ -29394,7 +29394,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="SHsuu6uvAkeyqLXoouiNCQAA">
 <XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">TjGf5PjXD0q/U/iGqKJeNwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="f5+xFwgI8Um2pxKPvqf/uQAA">
@@ -29420,7 +29420,7 @@ and attaches patient data
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="hm53VNeE30CVqjsD/uPFaQAA">
 <XPD:ATTR name="Alpha" type="real">4.18891562390884</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">11.6619037896906</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">06vS7MlX0UeynBJDlPlBoAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="G9diuqtgzUm1kYFg6b5dFAAA">
@@ -30706,7 +30706,7 @@ and attaches patient data
 <XPD:REF name="Views[3]">o25Tox3wNE6C1QXmdlWp3wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[123]" type="UMLDependency" guid="xYAONbAfpk6LveYnkBn+rwAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">PbTcFvqSo0SbVKUo+IfTdAAA</XPD:REF>
 <XPD:REF name="Supplier">i+7PYgsrLUWoTgxrjhso7AAA</XPD:REF>
@@ -30717,7 +30717,7 @@ and attaches patient data
 <XPD:REF name="Views[3]">P4Foww3MCk+3//j5ck+9xQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[124]" type="UMLDependency" guid="MpLPuIiNekqLvvWr4sg8qwAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">PbTcFvqSo0SbVKUo+IfTdAAA</XPD:REF>
 <XPD:REF name="Supplier">ozCkOc9TDUmgawFFhu6z9gAA</XPD:REF>
@@ -30759,7 +30759,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[0]">PHw591nCJ0OaymenEZjGzQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[128]" type="UMLDependency" guid="PHw591nCJ0OaymenEZjGzQAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">NxqcbBSebEu3GVyfuTR2hQAA</XPD:REF>
 <XPD:REF name="Supplier">ndl2Tr22/UGOq1Zp6IawGwAA</XPD:REF>
@@ -30770,7 +30770,7 @@ and attaches patient data
 <XPD:REF name="Views[3]">XNcDdy4kgEOPxJ0HYeOMXAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[129]" type="UMLDependency" guid="TjGf5PjXD0q/U/iGqKJeNwAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">NxqcbBSebEu3GVyfuTR2hQAA</XPD:REF>
 <XPD:REF name="Supplier">i+7PYgsrLUWoTgxrjhso7AAA</XPD:REF>
@@ -30781,7 +30781,7 @@ and attaches patient data
 <XPD:REF name="Views[3]">9Tda+sGfpkKaC2AjMpWUrAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[130]" type="UMLDependency" guid="06vS7MlX0UeynBJDlPlBoAAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">ndl2Tr22/UGOq1Zp6IawGwAA</XPD:REF>
 <XPD:REF name="Supplier">6TSdFHV5OkuoN9xa9GZReAAA</XPD:REF>
@@ -36047,15 +36047,15 @@ as JMS provider
 <XPD:REF name="Head">F1+etxop9029mp6D5R18OQAA</XPD:REF>
 <XPD:REF name="Tail">Gk44fVlPokWKv44a7chGygAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="jhEpoXNOUk2bjHfGzQrUBQAA">
-<XPD:ATTR name="Alpha" type="real">-1.46014020318211</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">9.05538513813742</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.48013734123357</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">11.0453610171873</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">JMS over SSL</XPD:ATTR>
 <XPD:REF name="Model">auXYo9cmE0OG8omdGwAvNgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="TSVZo+SxQE2OTFw+dR4PsQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.46014020318211</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">9.05538513813742</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">auXYo9cmE0OG8omdGwAvNgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="3pAZGnl5VE6fGYbld5ck/wAA">
@@ -36125,15 +36125,15 @@ as JMS provider
 <XPD:REF name="Head">9df86jdi+UCMsjvIemrKEAAA</XPD:REF>
 <XPD:REF name="Tail">/6pmlXoG5kSfltUXlHZgyAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="tCg4RG65h0GitZ9qVpkU6gAA">
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.71269132780899</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">7.07106781186548</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">JMS over SSL</XPD:ATTR>
 <XPD:REF name="Model">qsXe+854NE2nwMpkAQvzwQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="XUnLfzInNUS19tNha/l7awAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4.49372043974473</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">9.21954445729289</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">qsXe+854NE2nwMpkAQvzwQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="H/8ym4lV/UKKLuyjFFlL6gAA">
@@ -38081,8 +38081,8 @@ as JMS provider
 <XPD:REF name="Participant">OxnJ2Iws/ECdeQlDLeznigAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">AU4qB4UeTUq8Pcac87qepgAA</XPD:REF>
-<XPD:REF name="Views[1]">MjzkflMiTECxecrVZSfBcwAA</XPD:REF>
-<XPD:REF name="Views[2]">FMU6MWK6QkaATOzP35lcewAA</XPD:REF>
+<XPD:REF name="Views[1]">FMU6MWK6QkaATOzP35lcewAA</XPD:REF>
+<XPD:REF name="Views[2]">MjzkflMiTECxecrVZSfBcwAA</XPD:REF>
 <XPD:REF name="Views[3]">sYYw3OhL2EGqLX0MKa3lzQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="gRHbFXtXyEyQ7+19aUOjEQAA">
@@ -38090,8 +38090,8 @@ as JMS provider
 <XPD:REF name="Participant">IfPt3mC1V0yFrxWXJF7K/wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">2czWA01AdUq4JH7iD1io3wAA</XPD:REF>
-<XPD:REF name="Views[1]">0l2BuOF25UCYFbkGCvJ3NwAA</XPD:REF>
-<XPD:REF name="Views[2]">vlJr0IHIJ0O/dT10/zNM0gAA</XPD:REF>
+<XPD:REF name="Views[1]">vlJr0IHIJ0O/dT10/zNM0gAA</XPD:REF>
+<XPD:REF name="Views[2]">0l2BuOF25UCYFbkGCvJ3NwAA</XPD:REF>
 <XPD:REF name="Views[3]">igJXl7cq2E6XdcPw+8Sz8gAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -38109,8 +38109,8 @@ as JMS provider
 <XPD:REF name="Participant">etLw5wFU20OVE+2YhEfwJAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">lFozZdELIUqIccI0+nojIgAA</XPD:REF>
-<XPD:REF name="Views[1]">R9o97lbRaEKGGxem8cOf2AAA</XPD:REF>
-<XPD:REF name="Views[2]">En00v7HrbEmDWydtF89l4QAA</XPD:REF>
+<XPD:REF name="Views[1]">En00v7HrbEmDWydtF89l4QAA</XPD:REF>
+<XPD:REF name="Views[2]">R9o97lbRaEKGGxem8cOf2AAA</XPD:REF>
 <XPD:REF name="Views[3]">74Ki2Lloq0K+dE0EYnF4kwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="NYmwPHDYjU24WOvnWCIJNAAA">
@@ -38118,8 +38118,8 @@ as JMS provider
 <XPD:REF name="Participant">IJGnS/7RukO7tJX1GZhCEgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Pi52bVEvC02T6fUx814IiwAA</XPD:REF>
-<XPD:REF name="Views[1]">4tye+Dbq30SBvsTfZF+6pAAA</XPD:REF>
-<XPD:REF name="Views[2]">uFTy4m2u70eOc/jQxDbnkQAA</XPD:REF>
+<XPD:REF name="Views[1]">uFTy4m2u70eOc/jQxDbnkQAA</XPD:REF>
+<XPD:REF name="Views[2]">4tye+Dbq30SBvsTfZF+6pAAA</XPD:REF>
 <XPD:REF name="Views[3]">wflus9rEGUSagCKQOUA6EQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -38137,8 +38137,8 @@ as JMS provider
 <XPD:REF name="Participant">OFqrZrCLsEu1Vs+GuzMxAAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">/3tRB87My0uZsRzNnbPlpgAA</XPD:REF>
-<XPD:REF name="Views[1]">il74s3Hj20OzVa7d+jOxJQAA</XPD:REF>
-<XPD:REF name="Views[2]">AGyEoMymMEibuNMX9sIgugAA</XPD:REF>
+<XPD:REF name="Views[1]">AGyEoMymMEibuNMX9sIgugAA</XPD:REF>
+<XPD:REF name="Views[2]">il74s3Hj20OzVa7d+jOxJQAA</XPD:REF>
 <XPD:REF name="Views[3]">rkziCW0W2kOOkt7msAvRRQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="qydZREyQ5Eykcs3cByREYgAA">
@@ -38146,8 +38146,8 @@ as JMS provider
 <XPD:REF name="Participant">oguzjiRLOEGBc+RB7o3DrwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">CMYqkRrM6kCmoRkl29QkKAAA</XPD:REF>
-<XPD:REF name="Views[1]">G/ie/hoQukqrjce3udk3QAAA</XPD:REF>
-<XPD:REF name="Views[2]">zgHWEguxREqAUw2xId+yZQAA</XPD:REF>
+<XPD:REF name="Views[1]">zgHWEguxREqAUw2xId+yZQAA</XPD:REF>
+<XPD:REF name="Views[2]">G/ie/hoQukqrjce3udk3QAAA</XPD:REF>
 <XPD:REF name="Views[3]">J5voaTu+DUaPUU6ugwUatwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -38251,7 +38251,8 @@ as JMS provider
 <XPD:REF name="Namespace">4i2xRCCqgECshcS68wSNnwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[175]" type="UMLDependency" guid="auXYo9cmE0OG8omdGwAvNgAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">JMS over SSL</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">read</XPD:ATTR>
 <XPD:REF name="Namespace">4i2xRCCqgECshcS68wSNnwAA</XPD:REF>
 <XPD:REF name="Client">ZwMgVmxuAkCmvrkxkWnq/AAA</XPD:REF>
 <XPD:REF name="Supplier">NZOZHwPpE062UI0Yw5mSQAAA</XPD:REF>
@@ -38284,7 +38285,8 @@ as JMS provider
 <XPD:REF name="Views[3]">jLxusBBrykuH3FQFctpirQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[178]" type="UMLDependency" guid="qsXe+854NE2nwMpkAQvzwQAA">
-<XPD:ATTR name="Name" type="string">&lt;&lt;read&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">JMS over SSL</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">read</XPD:ATTR>
 <XPD:REF name="Namespace">4i2xRCCqgECshcS68wSNnwAA</XPD:REF>
 <XPD:REF name="Client">PswQN/3Vk0iKWSHDAUeZEgAA</XPD:REF>
 <XPD:REF name="Supplier">qUxFj+fDTkSB2taAEgAdHgAA</XPD:REF>
