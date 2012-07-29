@@ -26611,7 +26611,7 @@ and attaches patient data
 <XPD:REF name="DiagramOwner">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLComponentDiagramView" guid="14jJyDlA40mJ//Z5TcMJ2QAA">
 <XPD:REF name="Diagram">z/UQz+AKFkOzNf584Q5IcwAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">114</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">115</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLComponentView" guid="iFNBDFVnlUOw2b2n81hGzQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
@@ -26968,8 +26968,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[19]" type="UMLPackageView" guid="6+RfqdpGaUiunLlCDah/CQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">104</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">668</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">672</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">941</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">265</XPD:ATTR>
 <XPD:REF name="Model">B83Lb3M1TEiFSCXVn/N9+wAA</XPD:REF>
@@ -26988,7 +26988,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[20]" type="UMLComponentView" guid="FssLWe+sGk+omLFI3HC0mQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">908</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">896</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">126</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27013,7 +27013,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[21]" type="UMLComponentView" guid="9QTzgi9vG0mspYTW/MZ2cwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">580</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">468</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">163</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27038,7 +27038,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[22]" type="UMLComponentView" guid="+daHJDNLqEKR+VGM7ANqGAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">748</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">644</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">155</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27063,7 +27063,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[23]" type="UMLComponentView" guid="YtHIG1zyiU+l82wh4No+GAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">428</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">308</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">149</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27088,8 +27088,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[24]" type="UMLComponentView" guid="7oBXnhkgiUqHakFFH6p1LwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">296</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">892</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">440</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">129</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">xZZbFUt+mEuapwnJCizvsAAA</XPD:REF>
@@ -27113,16 +27113,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[25]" type="UMLInterfaceView" guid="kc2wl2s6X0+AolbwGc+FkAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">320</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">380</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">81</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">896</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">376</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">126</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">yscE5NkOXE+Z1UqDh+s8+gAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="shBadm0QckSahE6GmJ8+PAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="A4/go7Yu+UWkLianlYdN2QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">EmailNotifier</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">EmailNotifierRemote</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="G5Kmlf+fB0yUACmNlST7mQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27143,16 +27143,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[26]" type="UMLInterfaceView" guid="WgTloWFZjUeIZJVbuqUJ7wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">452</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">376</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">101</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">328</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">392</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">130</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">sE56kUiwhE6N6w12AYcIsQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="nd3UUSKnwEqLQJXl+dNoSQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Gcd1GewqZ0aII0TMp8J1RwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PatientManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">PatientManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="hLHGGjNEtUaVKdgWOKn9bAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27173,16 +27173,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[27]" type="UMLInterfaceView" guid="nVhJF8i/hE24cK57xGUGuwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">772</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">384</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">107</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">660</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">392</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">136</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">wWFbbNSOPEmDpbzx/R9UAQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="afRRO6F0f0mf74SwvZdFsAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="R+TFTnVhlk6JNaugweziigAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RequestManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RequestManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="15InT6vbz0eM/lTx/le3cgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27203,16 +27203,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[28]" type="UMLInterfaceView" guid="WR4CmcT5fUGgyafLJu609QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">604</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">488</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">392</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">115</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">144</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">Z7+n2PB+QEGCZmF7PKXwxgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="osCyRM/nKUuyIxS+iEahrAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="cqOU0kWCyEG11yMKKLfG6gAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">ResponseManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ResponseManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="1+PXc89O1UeNZQxptaaP8AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27233,16 +27233,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[29]" type="UMLInterfaceView" guid="1mz23m2FmEu/dJJ6wDwUsQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">428</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">404</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">820</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">144</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">173</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">bOZfCf5q4EGSDJLS+q4uHgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="fqsFOKbU+kermK8dxDC1MwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kru8UsSMR0yI+MCensu6pwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RichContentSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RichContentSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="5imFBnMV5Uu5a25CmH9CRgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27263,7 +27263,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[30]" type="UMLComponentView" guid="3EQeECGflUudty7f+lD6rAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">412</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">384</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">876</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">192</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27288,7 +27288,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[31]" type="UMLComponentView" guid="vkt5nieaj0WTZD51Z2Qf2gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">212</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">188</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">876</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">191</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27313,16 +27313,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[32]" type="UMLInterfaceView" guid="hXYkF/MELke9x671JJ0k2AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">240</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">224</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">820</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">143</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">172</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">YcHdMw19mki2J/VjSP38iwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="99WMYkqWoE6sY0aIpwE/kwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kMyV9tlKzEiRnddomNYcHgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PrescriptionSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">PrescriptionSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="orGHHj2H50Oq9AujqBS3+AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27343,7 +27343,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[33]" type="UMLComponentView" guid="R7JH995/E0eiuRztI6JfMQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">228</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">124</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">164</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27368,16 +27368,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[34]" type="UMLInterfaceView" guid="Oot25SoRbE2R3m5brSfZmgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">260</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">172</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">145</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">8zNcAc03T0+hIAXEhEeUJwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="EpnwCqnMf0GSD2ewm33wnwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="dafBKTDsKUqxPIhyBkZZcQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">HistorySystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">HistorySystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="IxDQUs6Jck+z1Uw27GSLcgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27398,7 +27398,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[35]" type="UMLComponentView" guid="yYqKHT7TuEKBCNC6ZdZVxQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">440</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">372</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">142</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -27423,16 +27423,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[36]" type="UMLInterfaceView" guid="y+sRWOpsSUaC6ZjxsiM50wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">460</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">396</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">94</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">123</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">1CoYYv+wjU2VMVDJjqiglQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="F7UtK+Kui0uiV9aqxN8GAwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="+btHgA+2i0Cqi7qBDRtBjgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">FileSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">FileSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="a/Sk9hABWEK8DZGFn0rKwgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27453,8 +27453,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[37]" type="UMLComponentView" guid="hfAsc6lrgEakygUvZ/X2swAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">900</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">780</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">756</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">127</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">o5/W44jHgk+LIJOhRyeDmwAA</XPD:REF>
@@ -27478,16 +27478,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[38]" type="UMLInterfaceView" guid="xQknqSrNIEWQ7oDHpalH0wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">888</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">91</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">792</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">696</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">108</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">+LqVFGMpRk6I0P1ER2sdPQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="UpskUMzUgEi0f/zWunlzUwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="c+j1qugU80KTPzEEE/nP7wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RequestDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RequestDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="oosU9XWzk0y+aosP+T+l+wAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27508,16 +27508,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[39]" type="UMLInterfaceView" guid="5/kee+nzvky+vfzRMnc5/gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">144</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">924</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">77</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">87</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">YL1aylQGiU6azjYcyFy0jAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="DXNF6Vffe0mf8GG7km2Y8AAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="qfmnFkgtwkSZ7IA3sMOl6QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">UserDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">UserDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="SetaFsdnpkaMp0EZZ1nJogAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27538,8 +27538,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[40]" type="UMLComponentView" guid="SsQ6iZuLWE6KShi1nO7ivAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">120</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">916</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">756</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">106</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">6k+HAYauTkeOnMQRU/xOzAAA</XPD:REF>
@@ -27563,16 +27563,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[41]" type="UMLInterfaceView" guid="v8TQ2Dq00k+uIua032s77AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">620</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">87</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">592</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">820</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">LiCmV0f2V0iVcQ93V25LywAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="PxtahiJFiUSf1bYPACIkWAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="oCrpRtW2QEOE0EYv0FdhfAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">ResponseDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ResponseDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ksRRc3S7LEue1D5QN4DybgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27593,8 +27593,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[42]" type="UMLComponentView" guid="RWqr1zU5LESm1gK+hvfTfwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">600</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">608</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">876</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">135</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">b5LbPmlXskGN0NoG83FnxwAA</XPD:REF>
@@ -27618,16 +27618,16 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[43]" type="UMLInterfaceView" guid="Pxq9cjSC6ES1xPWEGuwI4QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">748</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">656</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">700</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">92</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">mmjsw2iMi0y1BHc/hp2C9AAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="NfKKVgp5NkikbkilPIQD5QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="dbNbX0ezZ0iIWy9SuCDF9QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">MessagingDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">MessagingDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wvGI90A+ckCu6XmBFNrT0QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -27648,8 +27648,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[44]" type="UMLComponentView" guid="OxgsGf1U1kGCMjdPZ+b3mQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">748</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">752</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">632</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">756</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">HquSp2MliEqoaKtzoJeALAAA</XPD:REF>
@@ -27673,13 +27673,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[45]" type="UMLRealizationView" guid="MnAMF3HU8kS5ScVKKZ2D+QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">661,496;660,413</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">551,496;558,413</XPD:ATTR>
 <XPD:REF name="Model">8oc/c2XZCE6psh3eyc+MCwAA</XPD:REF>
 <XPD:REF name="Head">WR4CmcT5fUGgyafLJu609QAA</XPD:REF>
 <XPD:REF name="Tail">9QTzgi9vG0mspYTW/MZ2cwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="fNV9Gzeu10uSWszjOVzSEgAA">
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.97714188082417</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15.2643375224737</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">8oc/c2XZCE6psh3eyc+MCwAA</XPD:REF>
 </XPD:OBJ>
@@ -27699,13 +27699,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[46]" type="UMLRealizationView" guid="+TxRtwXta0aEgZcAL0tbTQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">825,496;824,405</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">722,496;727,413</XPD:ATTR>
 <XPD:REF name="Model">/l05mpXmIEuY+J8IzgYEVgAA</XPD:REF>
 <XPD:REF name="Head">nVhJF8i/hE24cK57xGUGuwAA</XPD:REF>
 <XPD:REF name="Tail">+daHJDNLqEKR+VGM7ANqGAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="vd/pAl0WIU+/WjCrczVJHQAA">
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">2.01690242603433</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">16.1245154965971</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">/l05mpXmIEuY+J8IzgYEVgAA</XPD:REF>
 </XPD:OBJ>
@@ -27725,7 +27725,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[47]" type="UMLRealizationView" guid="DvLEusSf6EO83qizA0xH8gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">360,496;359,401</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">957,440;958,397</XPD:ATTR>
 <XPD:REF name="Model">AhCymFURSUONYUoVGcAXcgAA</XPD:REF>
 <XPD:REF name="Head">kc2wl2s6X0+AolbwGc+FkAAA</XPD:REF>
 <XPD:REF name="Tail">7oBXnhkgiUqHakFFH6p1LwAA</XPD:REF>
@@ -27751,13 +27751,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[48]" type="UMLRealizationView" guid="TYL4mNpWUkCycYIreebFqwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">309,876;310,841</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">293,876;306,841</XPD:ATTR>
 <XPD:REF name="Model">uxkIZZLCgUGiPjqtD7iTUQAA</XPD:REF>
 <XPD:REF name="Head">hXYkF/MELke9x671JJ0k2AAA</XPD:REF>
 <XPD:REF name="Tail">vkt5nieaj0WTZD51Z2Qf2gAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="RA5j/1lzq0GMLb8F+SpGngAA">
-<XPD:ATTR name="Alpha" type="real">-4.10197659199592</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15.2643375224737</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3.80263435819974</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">16.1245154965971</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">uxkIZZLCgUGiPjqtD7iTUQAA</XPD:REF>
 </XPD:OBJ>
@@ -27777,13 +27777,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[49]" type="UMLRealizationView" guid="0gb0yWTNJkGM7R665Ga34wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">312,752;316,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">222,752;238,721</XPD:ATTR>
 <XPD:REF name="Model">ske73dFwOUmW7V3Y6jBqRgAA</XPD:REF>
 <XPD:REF name="Head">Oot25SoRbE2R3m5brSfZmgAA</XPD:REF>
 <XPD:REF name="Tail">R7JH995/E0eiuRztI6JfMQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="NF3Wqc5QJUKfV+PhbXLR9QAA">
-<XPD:ATTR name="Alpha" type="real">-4.22106526372631</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">17.0880074906351</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3.93646782046671</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">18.0277563773199</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">ske73dFwOUmW7V3Y6jBqRgAA</XPD:REF>
 </XPD:OBJ>
@@ -27803,13 +27803,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[50]" type="UMLRealizationView" guid="x50ogYNY10GA2iNwxcs5agAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">508,752;506,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">448,752;454,721</XPD:ATTR>
 <XPD:REF name="Model">5LheEGV6T0KDxQPdDHuHtgAA</XPD:REF>
 <XPD:REF name="Head">y+sRWOpsSUaC6ZjxsiM50wAA</XPD:REF>
 <XPD:REF name="Tail">yYqKHT7TuEKBCNC6ZdZVxQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="LPOPAjbFa0ipI5s0UeVRjAAA">
-<XPD:ATTR name="Alpha" type="real">1.93663689498957</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">14.3178210632764</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4.11010008101353</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15.2315462117278</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">5LheEGV6T0KDxQPdDHuHtgAA</XPD:REF>
 </XPD:OBJ>
@@ -27829,13 +27829,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[51]" type="UMLRealizationView" guid="evfFNBLRF0Oocuxa593RlAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">950,752;936,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">844,756;845,717</XPD:ATTR>
 <XPD:REF name="Model">XrNBlF+TEkGE7Tmu/xaqFgAA</XPD:REF>
 <XPD:REF name="Head">xQknqSrNIEWQ7oDHpalH0wAA</XPD:REF>
 <XPD:REF name="Tail">hfAsc6lrgEakygUvZ/X2swAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="KAZyOVEkJkaLlP7DtIDjnQAA">
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-3.38656889842064</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">8.24621125123532</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">XrNBlF+TEkGE7Tmu/xaqFgAA</XPD:REF>
 </XPD:OBJ>
@@ -27855,7 +27855,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[52]" type="UMLRealizationView" guid="fu4RcRObxEmf204b3ZwgFwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">176,752;180,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">968,756;967,721</XPD:ATTR>
 <XPD:REF name="Model">uET6rjlmNkqYH0m0VL7xpQAA</XPD:REF>
 <XPD:REF name="Head">5/kee+nzvky+vfzRMnc5/gAA</XPD:REF>
 <XPD:REF name="Tail">SsQ6iZuLWE6KShi1nO7ivAAA</XPD:REF>
@@ -27881,13 +27881,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[53]" type="UMLRealizationView" guid="9tLJzK4aAkuH0xVb1+XX0AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">665,752;663,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">665,876;652,841</XPD:ATTR>
 <XPD:REF name="Model">uJc+fdXDZkabJhiJdt6CZAAA</XPD:REF>
 <XPD:REF name="Head">v8TQ2Dq00k+uIua032s77AAA</XPD:REF>
 <XPD:REF name="Tail">RWqr1zU5LESm1gK+hvfTfwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="DNf7Ag/zrkeSLuadreQuRwAA">
-<XPD:ATTR name="Alpha" type="real">1.90912087164185</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15.2315462117278</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.95814712782408</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">12.0415945787923</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">uJc+fdXDZkabJhiJdt6CZAAA</XPD:REF>
 </XPD:OBJ>
@@ -27907,13 +27907,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[54]" type="UMLRealizationView" guid="U6oFxwtEV0WrY4+wMBzFuAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">807,752;796,721</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">707,756;713,721</XPD:ATTR>
 <XPD:REF name="Model">IsuxXryKbECABf+rclZQYQAA</XPD:REF>
 <XPD:REF name="Head">Pxq9cjSC6ES1xPWEGuwI4QAA</XPD:REF>
 <XPD:REF name="Tail">OxgsGf1U1kGCMjdPZ+b3mQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="6aU+5QE8kUuMdwHLByeEMwAA">
-<XPD:ATTR name="Alpha" type="real">1.6539384173043</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15.2315462117278</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4.04775795424643</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">17</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">IsuxXryKbECABf+rclZQYQAA</XPD:REF>
 </XPD:OBJ>
@@ -27958,8 +27958,8 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[56]" type="UMLComponentView" guid="XYFAlPDtIk+Q4R/gLcxv0QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1152</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">1052</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1140</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">364</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">134</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">ozCkOc9TDUmgawFFhu6z9gAA</XPD:REF>
@@ -28008,7 +28008,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[58]" type="UMLComponentView" guid="w7gL3Iv6zEOa2F0bLVEI4gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1160</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1144</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">760</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -28362,7 +28362,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[72]" type="UMLDependencyView" guid="OeJYY+YRaES2I2r5XhBccAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">225,260;491,384</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">207,260;382,398</XPD:ATTR>
 <XPD:REF name="Model">BQXWcdAKN0GS8OT1EgPnJgAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">I8W3xj10U02CFODMkQ3Z6QAA</XPD:REF>
@@ -28388,7 +28388,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[73]" type="UMLDependencyView" guid="u9XmLRbomUGLLuWknT3QyAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">215,212;491,383</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">202,212;382,397</XPD:ATTR>
 <XPD:REF name="Model">6pjqxdS6VEeHMxBG12pi6gAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">gRFRlzUh7kKrosdNMcay+gAA</XPD:REF>
@@ -28414,7 +28414,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[74]" type="UMLDependencyView" guid="HqfQ34VoCECkiuUNyc7woAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">378,212;491,379</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">366,212;389,392</XPD:ATTR>
 <XPD:REF name="Model">iM9SF96rw0KFHHb6qjSQlAAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">6hhP/+GO9ku2c13slo0ZUAAA</XPD:REF>
@@ -28440,7 +28440,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[75]" type="UMLDependencyView" guid="y53b5/JV3kCyJMj7vUFLowAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">382,260;491,380</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">367,260;388,392</XPD:ATTR>
 <XPD:REF name="Model">OU082ZAxJky7YQhKIfN0iQAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">gLw53I1xN06NRk+qbaDqOwAA</XPD:REF>
@@ -28466,7 +28466,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[76]" type="UMLDependencyView" guid="PnQDkfFu80GmvxEvUTga0AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">525,260;506,376</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">512,260;403,396</XPD:ATTR>
 <XPD:REF name="Model">6RKAGzF2VUCzKBOLwqhRlwAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">GdRk3mLi0U+k/XSmDD8qfwAA</XPD:REF>
@@ -28492,7 +28492,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[77]" type="UMLRealizationView" guid="7UZ588r2NUSK1g1hFY7gBQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">502,496;501,397</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">384,496;391,413</XPD:ATTR>
 <XPD:REF name="Model">rXMB/k3Z5UOiP37O7kOZWQAA</XPD:REF>
 <XPD:REF name="Head">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
 <XPD:REF name="Tail">YtHIG1zyiU+l82wh4No+GAAA</XPD:REF>
@@ -28518,7 +28518,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[78]" type="UMLDependencyView" guid="IQ4tBZnR+0WbQ8BCE5dojgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">946,260;835,388</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">934,260;738,398</XPD:ATTR>
 <XPD:REF name="Model">fg1X/uaqTUeRnD5baGq9uQAA</XPD:REF>
 <XPD:REF name="Head">nVhJF8i/hE24cK57xGUGuwAA</XPD:REF>
 <XPD:REF name="Tail">giUSKtehFkaNjxsxfI2xWwAA</XPD:REF>
@@ -28544,7 +28544,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[79]" type="UMLDependencyView" guid="CmFAbdQX+EukRWuIdU3AAgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">828,260;825,384</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">815,260;738,394</XPD:ATTR>
 <XPD:REF name="Model">G6ChWbRXREyj7O5Vq4KhHgAA</XPD:REF>
 <XPD:REF name="Head">nVhJF8i/hE24cK57xGUGuwAA</XPD:REF>
 <XPD:REF name="Tail">Aeubk98c40mLpYx2Nrq60QAA</XPD:REF>
@@ -28570,7 +28570,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[80]" type="UMLDependencyView" guid="7EHL0kqCkEiKvAMnWVWZWAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">713,260;814,388</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">700,260;723,392</XPD:ATTR>
 <XPD:REF name="Model">8nCPJy+2jkColf7akRQPwQAA</XPD:REF>
 <XPD:REF name="Head">nVhJF8i/hE24cK57xGUGuwAA</XPD:REF>
 <XPD:REF name="Tail">6XEtIVpSwkmdlj9te3vXDgAA</XPD:REF>
@@ -28596,7 +28596,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[81]" type="UMLDependencyView" guid="fo83lMRa90qwxJ6ogAqN4wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">692,260;665,392</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">679,260;570,396</XPD:ATTR>
 <XPD:REF name="Model">pvk2b8P/70mVoqvN8ujIIAAA</XPD:REF>
 <XPD:REF name="Head">WR4CmcT5fUGgyafLJu609QAA</XPD:REF>
 <XPD:REF name="Tail">6XEtIVpSwkmdlj9te3vXDgAA</XPD:REF>
@@ -28622,7 +28622,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[82]" type="UMLDependencyView" guid="4IU8LWGEV02enm762aZT6AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">807,260;671,397</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">794,260;570,399</XPD:ATTR>
 <XPD:REF name="Model">9Yo4IQ2f/kOfOdubLW5/9gAA</XPD:REF>
 <XPD:REF name="Head">WR4CmcT5fUGgyafLJu609QAA</XPD:REF>
 <XPD:REF name="Tail">Aeubk98c40mLpYx2Nrq60QAA</XPD:REF>
@@ -28648,13 +28648,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[83]" type="UMLDependencyView" guid="C7tOpcbnGkqRioGMdlnSxQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">350,540;300,644;192,707</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">892,477;844,488;844,652;956,707</XPD:ATTR>
 <XPD:REF name="Model">P9OGefGkW06idznVBJu1PQAA</XPD:REF>
 <XPD:REF name="Head">5/kee+nzvky+vfzRMnc5/gAA</XPD:REF>
 <XPD:REF name="Tail">7oBXnhkgiUqHakFFH6p1LwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="cu8Ci5bfSUeoH37voXyn8wAA">
-<XPD:ATTR name="Alpha" type="real">-0.049721981671385</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">60.8276253029822</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0.31423189019134</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">84.1189633792524</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">P9OGefGkW06idznVBJu1PQAA</XPD:REF>
 </XPD:OBJ>
@@ -28674,13 +28674,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[84]" type="UMLDependencyView" guid="mZTAUjdHwkeSi43n5etrMQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">482,540;328,704</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">367,540;254,703</XPD:ATTR>
 <XPD:REF name="Model">BS2OSEHSnkab30lhrmkyGgAA</XPD:REF>
 <XPD:REF name="Head">Oot25SoRbE2R3m5brSfZmgAA</XPD:REF>
 <XPD:REF name="Tail">YtHIG1zyiU+l82wh4No+GAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="9MiKq1jYiEaklN6V1bCxtwAA">
-<XPD:ATTR name="Alpha" type="real">-0.656006890130131</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">33.5410196624968</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-0.161696405572096</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">57.9827560572969</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">BS2OSEHSnkab30lhrmkyGgAA</XPD:REF>
 </XPD:OBJ>
@@ -28700,13 +28700,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[85]" type="UMLDependencyView" guid="NSZQa3FEc02HphooWS0CVQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">479,540;404,612;404,800;321,828</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">377,540;314,820</XPD:ATTR>
 <XPD:REF name="Model">hFVYLlrpgkel3OzfnMgDQwAA</XPD:REF>
 <XPD:REF name="Head">hXYkF/MELke9x671JJ0k2AAA</XPD:REF>
 <XPD:REF name="Tail">YtHIG1zyiU+l82wh4No+GAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="ooHf9V47wkGpLl5u14V5MQAA">
-<XPD:ATTR name="Alpha" type="real">-0.397627359310211</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">108.46197490365</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">3.22777910382949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">46.690470119715</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">hFVYLlrpgkel3OzfnMgDQwAA</XPD:REF>
 </XPD:OBJ>
@@ -28726,13 +28726,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[86]" type="UMLDependencyView" guid="V5LXdARpW0S25XG8qVfHyQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">482,540;416,612;416,800;489,828</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">379,540;336,812;479,829</XPD:ATTR>
 <XPD:REF name="Model">sDJ9nQBhuUKyhqQKec/uHQAA</XPD:REF>
 <XPD:REF name="Head">1mz23m2FmEu/dJJ6wDwUsQAA</XPD:REF>
 <XPD:REF name="Tail">YtHIG1zyiU+l82wh4No+GAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="R3aa4T3fdkqXEgOsKaUCWgAA">
-<XPD:ATTR name="Alpha" type="real">0.302884856891159</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">100.578327685441</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.45481132297681</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">150.864177325169</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">sDJ9nQBhuUKyhqQKec/uHQAA</XPD:REF>
 </XPD:OBJ>
@@ -28752,7 +28752,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[87]" type="UMLDependencyView" guid="wvEfJTt1M0WMCtcByGYmdwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">502,540;506,700</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">390,540;449,700</XPD:ATTR>
 <XPD:REF name="Model">ytVGD0EHBkWbfGtTn9QkIgAA</XPD:REF>
 <XPD:REF name="Head">y+sRWOpsSUaC6ZjxsiM50wAA</XPD:REF>
 <XPD:REF name="Tail">YtHIG1zyiU+l82wh4No+GAAA</XPD:REF>
@@ -28778,7 +28778,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[88]" type="UMLDependencyView" guid="r5/yww/4cEOhpMacbpNDRQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">675,540;783,703</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">567,540;705,704</XPD:ATTR>
 <XPD:REF name="Model">HCKQRaYVaEq0NN9oVY+nQAAA</XPD:REF>
 <XPD:REF name="Head">Pxq9cjSC6ES1xPWEGuwI4QAA</XPD:REF>
 <XPD:REF name="Tail">9QTzgi9vG0mspYTW/MZ2cwAA</XPD:REF>
@@ -28804,7 +28804,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[89]" type="UMLDependencyView" guid="hWHL+z2X0EOXGp7SQ5J3iwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">822,540;797,700</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">720,540;716,700</XPD:ATTR>
 <XPD:REF name="Model">tdODLHxX90+aJippyeHuzAAA</XPD:REF>
 <XPD:REF name="Head">Pxq9cjSC6ES1xPWEGuwI4QAA</XPD:REF>
 <XPD:REF name="Tail">+daHJDNLqEKR+VGM7ANqGAAA</XPD:REF>
@@ -28830,13 +28830,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[90]" type="UMLDependencyView" guid="Q/XNNLRFX023ApWFtgrDXgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">661,540;663,700</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">556,540;642,820</XPD:ATTR>
 <XPD:REF name="Model">79Oa4aG7Lk6LJUvNT38lEwAA</XPD:REF>
 <XPD:REF name="Head">v8TQ2Dq00k+uIua032s77AAA</XPD:REF>
 <XPD:REF name="Tail">9QTzgi9vG0mspYTW/MZ2cwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="0vPGqdogNk+MRy6JXyvs5AAA">
-<XPD:ATTR name="Alpha" type="real">-1.50114186878215</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">12</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.85355934824252</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">82.0243866176395</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">79Oa4aG7Lk6LJUvNT38lEwAA</XPD:REF>
 </XPD:OBJ>
@@ -28856,7 +28856,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[91]" type="UMLDependencyView" guid="K6GDy5OoakGNF3ILpqaPDwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">837,540;922,701</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">735,540;835,699</XPD:ATTR>
 <XPD:REF name="Model">33A7qzOJrE68nr9id2hjKQAA</XPD:REF>
 <XPD:REF name="Head">xQknqSrNIEWQ7oDHpalH0wAA</XPD:REF>
 <XPD:REF name="Tail">+daHJDNLqEKR+VGM7ANqGAAA</XPD:REF>
@@ -28902,7 +28902,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[93]" type="UMLDependencyView" guid="A0aTuBn2AUa6srxGuxkb+QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">865,796;1152,928</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">764,800;1132,928</XPD:ATTR>
 <XPD:REF name="Model">cXqFo06csUi0M8uWRcHFFQAA</XPD:REF>
 <XPD:REF name="Head">Q6BgC03I9UmIsY26sgDtbwAA</XPD:REF>
 <XPD:REF name="Tail">OxgsGf1U1kGCMjdPZ+b3mQAA</XPD:REF>
@@ -28952,13 +28952,13 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[95]" type="UMLRealizationView" guid="VAhLvl2p7EiakfUrOiZ/3wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">504,876;500,841</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">483,876;488,841</XPD:ATTR>
 <XPD:REF name="Model">2tYV/7Gm4kWK3lMJioX85QAA</XPD:REF>
 <XPD:REF name="Head">1mz23m2FmEu/dJJ6wDwUsQAA</XPD:REF>
 <XPD:REF name="Tail">3EQeECGflUudty7f+lD6rAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="H8Zkb7+pdk+6390XaLSexQAA">
-<XPD:ATTR name="Alpha" type="real">1.91733602143378</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">17.8885438199983</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4.09787274787218</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">18.7882942280559</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">2tYV/7Gm4kWK3lMJioX85QAA</XPD:REF>
 </XPD:OBJ>
@@ -28989,7 +28989,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[97]" type="UMLDependencyView" guid="NF21pnEt/EWs3Iq0PJF4BwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">917,540;688,635;517,708</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">907,540;688,635;467,708</XPD:ATTR>
 <XPD:REF name="Model">6qn9nWOe5UqSK0UQDdS8PQAA</XPD:REF>
 <XPD:REF name="Head">y+sRWOpsSUaC6ZjxsiM50wAA</XPD:REF>
 <XPD:REF name="Tail">FssLWe+sGk+omLFI3HC0mQAA</XPD:REF>
@@ -29181,7 +29181,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[104]" type="UMLDependencyView" guid="TYbiFbbwcEuT4RTSGfqOugAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">328,920;336,928;338,1036</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">322,920;336,928;338,1036</XPD:ATTR>
 <XPD:REF name="Model">ZRndnB6jOEmkHWlIIVDQ2QAA</XPD:REF>
 <XPD:REF name="Head">J2svf9/FqUe4fp3Pn1uBIwAA</XPD:REF>
 <XPD:REF name="Tail">vkt5nieaj0WTZD51Z2Qf2gAA</XPD:REF>
@@ -29207,7 +29207,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[105]" type="UMLDependencyView" guid="qukZfuTwBU++82ZoTuhqOAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">508,920;511,1036</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">483,920;507,1036</XPD:ATTR>
 <XPD:REF name="Model">4yDSPnyCBk6ns40aTLog5wAA</XPD:REF>
 <XPD:REF name="Head">m0O0/dnLYUWH7X2eHh8ADAAA</XPD:REF>
 <XPD:REF name="Tail">3EQeECGflUudty7f+lD6rAAA</XPD:REF>
@@ -29233,7 +29233,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[106]" type="UMLDependencyView" guid="+H4bpEqAlEGQWq9K+ym1qwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">273,796;176,856;176,1036</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">197,796;176,856;176,1036</XPD:ATTR>
 <XPD:REF name="Model">JHwaRJ7/7kS+wOi6Fww9ZgAA</XPD:REF>
 <XPD:REF name="Head">zCH5aWIYGEi6hdf2WpPC/wAA</XPD:REF>
 <XPD:REF name="Tail">R7JH995/E0eiuRztI6JfMQAA</XPD:REF>
@@ -29259,7 +29259,7 @@ and attaches patient data
 <XPD:OBJ name="OwnedViews[107]" type="UMLDependencyView" guid="jviaj6ylUky4PEFCtu2U6AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1218,928;1220,804</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1215,928;1206,804</XPD:ATTR>
 <XPD:REF name="Model">xYAONbAfpk6LveYnkBn+rwAA</XPD:REF>
 <XPD:REF name="Head">w7gL3Iv6zEOa2F0bLVEI4gAA</XPD:REF>
 <XPD:REF name="Tail">Q6BgC03I9UmIsY26sgDtbwAA</XPD:REF>
@@ -29282,36 +29282,10 @@ and attaches patient data
 <XPD:REF name="Model">xYAONbAfpk6LveYnkBn+rwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[108]" type="UMLDependencyView" guid="6ko6rHfLrESKZiFdXPkVggAA">
+<XPD:OBJ name="OwnedViews[108]" type="UMLComponentView" guid="OfZc15yFYkGkg8xbtVV+mAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1217,988;1218,1052</XPD:ATTR>
-<XPD:REF name="Model">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
-<XPD:REF name="Head">XYFAlPDtIk+Q4R/gLcxv0QAA</XPD:REF>
-<XPD:REF name="Tail">Q6BgC03I9UmIsY26sgDtbwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="LxD7RZa3jUa32nx5XpgUtAAA">
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
-<XPD:REF name="Model">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="PDQlWmgYSESFvKeGyFJuogAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="tcdkR/TubEeOKxPCZDbZrgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1.5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[109]" type="UMLComponentView" guid="OfZc15yFYkGkg8xbtVV+mAAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1156</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1144</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">660</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">124</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -29333,10 +29307,10 @@ and attaches patient data
 <XPD:REF name="Model">NxqcbBSebEu3GVyfuTR2hQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[110]" type="UMLComponentView" guid="66L2CgYxMEmY2FwTQIauEgAA">
+<XPD:OBJ name="OwnedViews[109]" type="UMLComponentView" guid="66L2CgYxMEmY2FwTQIauEgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1156</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1140</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">500</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
@@ -29358,10 +29332,10 @@ and attaches patient data
 <XPD:REF name="Model">ndl2Tr22/UGOq1Zp6IawGwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[111]" type="UMLDependencyView" guid="636W8/hVP0a1zWHNUfXZmgAA">
+<XPD:OBJ name="OwnedViews[110]" type="UMLDependencyView" guid="636W8/hVP0a1zWHNUfXZmgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1217,660;1219,544</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1205,660;1203,544</XPD:ATTR>
 <XPD:REF name="Model">PHw591nCJ0OaymenEZjGzQAA</XPD:REF>
 <XPD:REF name="Head">66L2CgYxMEmY2FwTQIauEgAA</XPD:REF>
 <XPD:REF name="Tail">OfZc15yFYkGkg8xbtVV+mAAA</XPD:REF>
@@ -29384,10 +29358,10 @@ and attaches patient data
 <XPD:REF name="Model">PHw591nCJ0OaymenEZjGzQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[112]" type="UMLDependencyView" guid="T8noyZv/F0+OVaB1E5k3YQAA">
+<XPD:OBJ name="OwnedViews[111]" type="UMLDependencyView" guid="T8noyZv/F0+OVaB1E5k3YQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1218,704;1219,760</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1205,704;1204,760</XPD:ATTR>
 <XPD:REF name="Model">TjGf5PjXD0q/U/iGqKJeNwAA</XPD:REF>
 <XPD:REF name="Head">w7gL3Iv6zEOa2F0bLVEI4gAA</XPD:REF>
 <XPD:REF name="Tail">OfZc15yFYkGkg8xbtVV+mAAA</XPD:REF>
@@ -29410,10 +29384,10 @@ and attaches patient data
 <XPD:REF name="Model">TjGf5PjXD0q/U/iGqKJeNwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[113]" type="UMLDependencyView" guid="Dq1kbuhO6E6g7cn4jv0CigAA">
+<XPD:OBJ name="OwnedViews[112]" type="UMLDependencyView" guid="Dq1kbuhO6E6g7cn4jv0CigAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1156,521;1033,519</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1140,521;1021,519</XPD:ATTR>
 <XPD:REF name="Model">06vS7MlX0UeynBJDlPlBoAAA</XPD:REF>
 <XPD:REF name="Head">FssLWe+sGk+omLFI3HC0mQAA</XPD:REF>
 <XPD:REF name="Tail">66L2CgYxMEmY2FwTQIauEgAA</XPD:REF>
@@ -29436,9 +29410,61 @@ and attaches patient data
 <XPD:REF name="Model">06vS7MlX0UeynBJDlPlBoAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
+<XPD:OBJ name="OwnedViews[113]" type="UMLDependencyView" guid="8azlCnKO+0yeIGfPy3AYqQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1237,928;1296,840;1296,484;1020,466</XPD:ATTR>
+<XPD:REF name="Model">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
+<XPD:REF name="Head">7oBXnhkgiUqHakFFH6p1LwAA</XPD:REF>
+<XPD:REF name="Tail">Q6BgC03I9UmIsY26sgDtbwAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="POPy98lo+EiI2KVkcevjiAAA">
+<XPD:ATTR name="Alpha" type="real">-5.89730197271717</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">207.238992470047</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Model">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="PB5xh8REQEqbtYuNX+/sNgAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:REF name="Model">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="GaK9In41B0uTL614fWet8wAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">131</XPD:ATTR>
+<XPD:OBJ name="OwnedViews[114]" type="UMLDependencyView" guid="fbbl+L54hkO6tIza6qcbIQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1020,443;1140,406</XPD:ATTR>
+<XPD:REF name="Model">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
+<XPD:REF name="Head">XYFAlPDtIk+Q4R/gLcxv0QAA</XPD:REF>
+<XPD:REF name="Tail">7oBXnhkgiUqHakFFH6p1LwAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Mg4hUEGG5kGYuHIAKCq/BAAA">
+<XPD:ATTR name="Alpha" type="real">1.22854134876681</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">14.0356688476182</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Model">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="c9VB99zeqUC910ISh5GC3gAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
+<XPD:REF name="Model">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="MNpiaoXts0Kw2BqME5vibQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.5707963267949</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
+<XPD:REF name="Model">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">133</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLComponent" guid="ngwbtkNfPUSnwuSBgIzc+AAA">
 <XPD:ATTR name="Name" type="string">JSF Pages</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
@@ -29539,7 +29565,7 @@ and attaches patient data
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[10]" type="UMLInterface" guid="Z7+n2PB+QEGCZmF7PKXwxgAA">
-<XPD:ATTR name="Name" type="string">ResponseManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ResponseManagerLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">WR4CmcT5fUGgyafLJu609QAA</XPD:REF>
@@ -29551,7 +29577,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[2]">9Yo4IQ2f/kOfOdubLW5/9gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[11]" type="UMLInterface" guid="wWFbbNSOPEmDpbzx/R9UAQAA">
-<XPD:ATTR name="Name" type="string">RequestManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RequestManagerLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">nVhJF8i/hE24cK57xGUGuwAA</XPD:REF>
@@ -29564,7 +29590,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[3]">8nCPJy+2jkColf7akRQPwQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[12]" type="UMLInterface" guid="sE56kUiwhE6N6w12AYcIsQAA">
-<XPD:ATTR name="Name" type="string">PatientManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">PatientManagerLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">WgTloWFZjUeIZJVbuqUJ7wAA</XPD:REF>
@@ -29629,14 +29655,16 @@ and attaches patient data
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">7oBXnhkgiUqHakFFH6p1LwAA</XPD:REF>
 <XPD:REF name="Views[1]">lHs7Hj8doUO0IxDXp/zQzgAA</XPD:REF>
-<XPD:ATTR name="#ClientDependencies" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#ClientDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="ClientDependencies[0]">AhCymFURSUONYUoVGcAXcgAA</XPD:REF>
 <XPD:REF name="ClientDependencies[1]">P9OGefGkW06idznVBJu1PQAA</XPD:REF>
-<XPD:ATTR name="#SupplierDependencies" type="integer">1</XPD:ATTR>
+<XPD:REF name="ClientDependencies[2]">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
+<XPD:ATTR name="#SupplierDependencies" type="integer">2</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">QaVY45yaGkqDi67VQf4mrQAA</XPD:REF>
+<XPD:REF name="SupplierDependencies[1]">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[17]" type="UMLInterface" guid="yscE5NkOXE+Z1UqDh+s8+gAA">
-<XPD:ATTR name="Name" type="string">EmailNotifier</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">EmailNotifierRemote</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">kc2wl2s6X0+AolbwGc+FkAAA</XPD:REF>
@@ -29659,7 +29687,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[1]">06vS7MlX0UeynBJDlPlBoAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[19]" type="UMLInterface" guid="bOZfCf5q4EGSDJLS+q4uHgAA">
-<XPD:ATTR name="Name" type="string">RichContentSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RichContentSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">1mz23m2FmEu/dJJ6wDwUsQAA</XPD:REF>
@@ -29671,7 +29699,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[2]">2tYV/7Gm4kWK3lMJioX85QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[20]" type="UMLInterface" guid="YcHdMw19mki2J/VjSP38iwAA">
-<XPD:ATTR name="Name" type="string">PrescriptionSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">PrescriptionSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">hXYkF/MELke9x671JJ0k2AAA</XPD:REF>
@@ -29682,7 +29710,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[1]">hFVYLlrpgkel3OzfnMgDQwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[21]" type="UMLInterface" guid="8zNcAc03T0+hIAXEhEeUJwAA">
-<XPD:ATTR name="Name" type="string">HistorySystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">HistorySystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">Oot25SoRbE2R3m5brSfZmgAA</XPD:REF>
@@ -29693,7 +29721,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[1]">BS2OSEHSnkab30lhrmkyGgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[22]" type="UMLInterface" guid="1CoYYv+wjU2VMVDJjqiglQAA">
-<XPD:ATTR name="Name" type="string">FileSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">FileSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">y+sRWOpsSUaC6ZjxsiM50wAA</XPD:REF>
@@ -29705,7 +29733,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[2]">6qn9nWOe5UqSK0UQDdS8PQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[23]" type="UMLInterface" guid="+LqVFGMpRk6I0P1ER2sdPQAA">
-<XPD:ATTR name="Name" type="string">RequestDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RequestDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">xQknqSrNIEWQ7oDHpalH0wAA</XPD:REF>
@@ -29717,7 +29745,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[2]">33A7qzOJrE68nr9id2hjKQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[24]" type="UMLInterface" guid="mmjsw2iMi0y1BHc/hp2C9AAA">
-<XPD:ATTR name="Name" type="string">MessagingDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">MessagingDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">Pxq9cjSC6ES1xPWEGuwI4QAA</XPD:REF>
@@ -29729,7 +29757,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[2]">tdODLHxX90+aJippyeHuzAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[25]" type="UMLInterface" guid="YL1aylQGiU6azjYcyFy0jAAA">
-<XPD:ATTR name="Name" type="string">UserDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">UserDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">5/kee+nzvky+vfzRMnc5/gAA</XPD:REF>
@@ -29740,7 +29768,7 @@ and attaches patient data
 <XPD:REF name="SupplierDependencies[1]">P9OGefGkW06idznVBJu1PQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[26]" type="UMLInterface" guid="LiCmV0f2V0iVcQ93V25LywAA">
-<XPD:ATTR name="Name" type="string">ResponseDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ResponseDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">v8TQ2Dq00k+uIua032s77AAA</XPD:REF>
@@ -30017,8 +30045,9 @@ and attaches patient data
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">XYFAlPDtIk+Q4R/gLcxv0QAA</XPD:REF>
 <XPD:REF name="Views[1]">rlPkCFJHvU2EGARRenajDAAA</XPD:REF>
-<XPD:ATTR name="#SupplierDependencies" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#SupplierDependencies" type="integer">2</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
+<XPD:REF name="SupplierDependencies[1]">ibBXp2rOlU+ZRsuKypNHqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[54]" type="UMLComponent" guid="d2yqA26YYEyMoQ78W4+7JgAA">
 <XPD:ATTR name="Name" type="string">Service Bus</XPD:ATTR>
@@ -30610,9 +30639,10 @@ and attaches patient data
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">Q6BgC03I9UmIsY26sgDtbwAA</XPD:REF>
 <XPD:REF name="Views[1]">a94ke8DnWUuzIHAKt+JDtAAA</XPD:REF>
-<XPD:ATTR name="#ClientDependencies" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#ClientDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="ClientDependencies[0]">xYAONbAfpk6LveYnkBn+rwAA</XPD:REF>
 <XPD:REF name="ClientDependencies[1]">MpLPuIiNekqLvvWr4sg8qwAA</XPD:REF>
+<XPD:REF name="ClientDependencies[2]">JKk2SCgBLUaxAWiIem5I4AAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">2</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">cXqFo06csUi0M8uWRcHFFQAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">Wr0vDebXLkW/UiE8ovMUEAAA</XPD:REF>
@@ -30721,11 +30751,6 @@ and attaches patient data
 <XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
 <XPD:REF name="Client">PbTcFvqSo0SbVKUo+IfTdAAA</XPD:REF>
 <XPD:REF name="Supplier">ozCkOc9TDUmgawFFhu6z9gAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">6ko6rHfLrESKZiFdXPkVggAA</XPD:REF>
-<XPD:REF name="Views[1]">LxD7RZa3jUa32nx5XpgUtAAA</XPD:REF>
-<XPD:REF name="Views[2]">PDQlWmgYSESFvKeGyFJuogAA</XPD:REF>
-<XPD:REF name="Views[3]">tcdkR/TubEeOKxPCZDbZrgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[125]" type="UMLComponent" guid="NxqcbBSebEu3GVyfuTR2hQAA">
 <XPD:ATTR name="Name" type="string">Bridge</XPD:ATTR>
@@ -30790,6 +30815,28 @@ and attaches patient data
 <XPD:REF name="Views[1]">hm53VNeE30CVqjsD/uPFaQAA</XPD:REF>
 <XPD:REF name="Views[2]">G9diuqtgzUm1kYFg6b5dFAAA</XPD:REF>
 <XPD:REF name="Views[3]">k6f69hGj9UOdPq//7jFayQAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[131]" type="UMLDependency" guid="JKk2SCgBLUaxAWiIem5I4AAA">
+<XPD:ATTR name="Name" type="string">&lt;&lt;uses&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
+<XPD:REF name="Client">PbTcFvqSo0SbVKUo+IfTdAAA</XPD:REF>
+<XPD:REF name="Supplier">xZZbFUt+mEuapwnJCizvsAAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">8azlCnKO+0yeIGfPy3AYqQAA</XPD:REF>
+<XPD:REF name="Views[1]">POPy98lo+EiI2KVkcevjiAAA</XPD:REF>
+<XPD:REF name="Views[2]">PB5xh8REQEqbtYuNX+/sNgAA</XPD:REF>
+<XPD:REF name="Views[3]">GaK9In41B0uTL614fWet8wAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[132]" type="UMLDependency" guid="ibBXp2rOlU+ZRsuKypNHqgAA">
+<XPD:ATTR name="Name" type="string">&lt;&lt;send&gt;&gt;</XPD:ATTR>
+<XPD:REF name="Namespace">zb/EW655q0KNrAdyDFgi4wAA</XPD:REF>
+<XPD:REF name="Client">xZZbFUt+mEuapwnJCizvsAAA</XPD:REF>
+<XPD:REF name="Supplier">ozCkOc9TDUmgawFFhu6z9gAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
+<XPD:REF name="Views[0]">fbbl+L54hkO6tIza6qcbIQAA</XPD:REF>
+<XPD:REF name="Views[1]">Mg4hUEGG5kGYuHIAKCq/BAAA</XPD:REF>
+<XPD:REF name="Views[2]">c9VB99zeqUC910ISh5GC3gAA</XPD:REF>
+<XPD:REF name="Views[3]">MNpiaoXts0Kw2BqME5vibQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[3]" type="UMLModel" guid="4i2xRCCqgECshcS68wSNnwAA">
@@ -39401,7 +39448,7 @@ as JMS provider
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">988</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">936</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">163</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">183</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:REF name="Model">ikEqWDuyikOexiqkCcxFNwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="y+GB90xX6U++/GMaltKLywAA">
@@ -40161,16 +40208,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[56]" type="UMLInterfaceView" guid="PC34S3JuEkyo8YnFmiKs8AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">848</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">836</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">256</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">130</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">YMQ8DtNsX0W4Af9jWvtoqwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="6je5k1XwwkeLFRY5h7kfXgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="2tx5gukqt0quykLJdKxtBAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PatientManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">PatientManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="wLbS7vPt5k2y+6ki9dgXJgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40191,7 +40238,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[57]" type="UMLRealizationView" guid="SvZ2brz0sUim86CD13SU5AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">992,267;912,267</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">992,266;911,267</XPD:ATTR>
 <XPD:REF name="Model">KRw403q3Q0G6DxmWaq+n3wAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">mFIjH5gUo0ejtKVg93owhgAA</XPD:REF>
@@ -40217,16 +40264,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[58]" type="UMLInterfaceView" guid="Vizu9nTkAk+P6W0G8sQwdAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">852</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">764</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">107</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">844</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">760</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">136</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">ezH9w25/DEaw6HBxaHcXfgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="9sTTu3Kk8UqRbAlVgklVEgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="TnffXy/zh0+n/uezhVRUQAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RequestManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RequestManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="41VC/E8GlkyAkB84/HYJ7QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40247,7 +40294,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[59]" type="UMLRealizationView" guid="KtVV9WyFDUWotBX6GEaYlwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">988,775;915,775</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">988,773;922,771</XPD:ATTR>
 <XPD:REF name="Model">hFbRjcY4UEWpxgaIxRZirAAA</XPD:REF>
 <XPD:REF name="Head">Vizu9nTkAk+P6W0G8sQwdAAA</XPD:REF>
 <XPD:REF name="Tail">z0USq3nCjEym37VaLBZiTwAA</XPD:REF>
@@ -40273,16 +40320,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[60]" type="UMLInterfaceView" guid="YlhuFAl9bEGBUSWS9K1f5QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">844</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">836</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">636</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">115</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">144</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">ArKyZpJP/kyVFSyJYUhOPQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="qWmD06StHE6fu9aW9DlK6wAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="ESWDSf30c0aVr9YE7ZCStwAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">ResponseManager</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ResponseManagerLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="TqkT8OMLEE6vqDO/yJPrIAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40303,7 +40350,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[61]" type="UMLRealizationView" guid="jkFUD01HQECyxYmHKPXrsQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1068,456;1068,648;911,648</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1068,456;1068,648;918,647</XPD:ATTR>
 <XPD:REF name="Model">oyxOsNw4R0egJOJt5Pkx6gAA</XPD:REF>
 <XPD:REF name="Head">YlhuFAl9bEGBUSWS9K1f5QAA</XPD:REF>
 <XPD:REF name="Tail">r8T56Q/9VEmgD4geCi1HpQAA</XPD:REF>
@@ -40329,7 +40376,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[62]" type="UMLDependencyView" guid="fGTizLkP/EGrZBnndmSPqwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">657,887;904,864;904,785</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">657,887;904,864;910,781</XPD:ATTR>
 <XPD:REF name="Model">Qu+cmHd7vEKAJWkImtuVzQAA</XPD:REF>
 <XPD:REF name="Head">Vizu9nTkAk+P6W0G8sQwdAAA</XPD:REF>
 <XPD:REF name="Tail">WwXP1UfZR0as+fM4kGL2VwAA</XPD:REF>
@@ -40355,7 +40402,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[63]" type="UMLDependencyView" guid="1FjfymrMyEuQtuVRd3/cigAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">406,268;891,268</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">406,268;890,268</XPD:ATTR>
 <XPD:REF name="Model">yrqHzkCNy0yWeMdQxdQyKAAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">FwJxH8VflUSX2uDw4BVoBgAA</XPD:REF>
@@ -40381,16 +40428,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[64]" type="UMLInterfaceView" guid="94CNsA7+3EqYWjdYTu2MrwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1456</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">180</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">144</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1428</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">184</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">173</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">Mrz++033IUm+I4dv1JxrUgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="FwJJeNaS5Ue42uOxtgHOywAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="id2WSl/6w0yXwa+MaYNW8wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RichContentSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RichContentSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="BAo2WfrnmkqxBfV+5fxVAgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40411,7 +40458,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[65]" type="UMLRealizationView" guid="CdYRSIT3iku69Qzzf+wcbAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1636,194;1538,191</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1636,196;1524,195</XPD:ATTR>
 <XPD:REF name="Model">iffKEfe8n0en7yFEqdJGxAAA</XPD:REF>
 <XPD:REF name="Head">94CNsA7+3EqYWjdYTu2MrwAA</XPD:REF>
 <XPD:REF name="Tail">VA7inBmJtEyda350rkjIlAAA</XPD:REF>
@@ -40437,16 +40484,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[66]" type="UMLInterfaceView" guid="gmF/HaQrLk+F38OHNNPhAgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1456</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1428</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">256</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">143</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">172</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">EkPt042Z5EG7g6QXvDefOAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="DVH4zcym0kOtNrPE8nW+tQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="KQK3HCouYEe7twRE4V50GgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">PrescriptionSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">PrescriptionSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ASt0L/hvbkKldFkWR10tbAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40467,7 +40514,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[67]" type="UMLRealizationView" guid="zaY9SQ6HoUGdYgXAsbduNQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1636,270;1537,267</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1636,269;1524,267</XPD:ATTR>
 <XPD:REF name="Model">Dfa/3IWomU2luODPRkJWqgAA</XPD:REF>
 <XPD:REF name="Head">gmF/HaQrLk+F38OHNNPhAgAA</XPD:REF>
 <XPD:REF name="Tail">qmtW5JUDm0GiQEF8RQuMpgAA</XPD:REF>
@@ -40493,16 +40540,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[68]" type="UMLInterfaceView" guid="IE+dhVqVZ0iUlFCeum6igQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1468</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1440</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">324</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">145</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">bJIMsTSGO0Ch4mktXG8fpwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="vmW7rfNgsUWyxeeFvR2FUQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="ANdhyGP1DkaLcA9IqOwp1wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">HistorySystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">HistorySystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="7AYzOD84e0albBq5yB22iAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40523,7 +40570,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[69]" type="UMLRealizationView" guid="PnXVtZ91MEefyI30Rshs0wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1636,339;1536,336</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1636,339;1522,335</XPD:ATTR>
 <XPD:REF name="Model">Ibpz4wlr90yXdzubNfVLSwAA</XPD:REF>
 <XPD:REF name="Head">IE+dhVqVZ0iUlFCeum6igQAA</XPD:REF>
 <XPD:REF name="Tail">k6nH4I6u60SjL0IhOltOGgAA</XPD:REF>
@@ -40549,16 +40596,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[70]" type="UMLInterfaceView" guid="FUY7WfQJdU+o0yFzUPlWgAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1480</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1448</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">484</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">94</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">123</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">5P/EEtcCxEWV+fWcP6O8OgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="CIjdXfxODkuo6+5CGjVwAwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="5i/7i9JRwUGmGNj3OvWx6QAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">FileSystemDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">FileSystemDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="aKI7u0hA50S90OBiTfXo1AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40579,7 +40626,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[71]" type="UMLRealizationView" guid="Q9PB5vlqb068vZau4lZW8wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1636,497;1537,496</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1636,496;1519,495</XPD:ATTR>
 <XPD:REF name="Model">ydg/FNbkRU6GQ07K6zM7LgAA</XPD:REF>
 <XPD:REF name="Head">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
 <XPD:REF name="Tail">NZ7AFhgZfECMcumDlJeLhwAA</XPD:REF>
@@ -40605,16 +40652,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[72]" type="UMLInterfaceView" guid="XKS97hosYE2V72vwWvSCqAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1484</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">748</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">86</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1460</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">744</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">108</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">s5R3TdYbrkK1N6ps3wi35AAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="Qd7OfvupUkODqtGGu+LqgwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="KMd6Pp8IXEKnAoCBWjUA5gAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">RequestDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">RequestDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="okXFM24vKEiDRnrGjI2I1wAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40635,7 +40682,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[73]" type="UMLRealizationView" guid="/yR/eqvWaEqnBYwuJkqzZQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1640,765;1537,761</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1640,762;1524,756</XPD:ATTR>
 <XPD:REF name="Model">jV/omyDcaEOriy/P3ghyPgAA</XPD:REF>
 <XPD:REF name="Head">XKS97hosYE2V72vwWvSCqAAA</XPD:REF>
 <XPD:REF name="Tail">4pHsutKhlkiML3YmQXrsewAA</XPD:REF>
@@ -40661,16 +40708,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[74]" type="UMLInterfaceView" guid="tHaMsvmkqkCY7jM1F1d2RgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1484</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1452</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">644</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">92</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">GgQTgYMTDE+E0x84jY2VOAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="ILkgrDArVk+SifVsQHZNLAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="+2Ti2FMskkW3spW8i/2MnQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">MessagingDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">MessagingDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="vTKuoC6Y0kWaSEYmhhuBXQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40691,7 +40738,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[75]" type="UMLRealizationView" guid="3CXkznCbO06YVrz6sbbr3wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1640,657;1540,656</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1640,656;1522,655</XPD:ATTR>
 <XPD:REF name="Model">HndFQ4j6+US2zv+M5FyAmwAA</XPD:REF>
 <XPD:REF name="Head">tHaMsvmkqkCY7jM1F1d2RgAA</XPD:REF>
 <XPD:REF name="Tail">RKXX2XLQS0Gxr9zXUUttLQAA</XPD:REF>
@@ -40719,14 +40766,14 @@ as JMS provider
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1480</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">884</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">86</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">87</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">sLGGOXNjpEeTSUlyCBwZhQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="pANIvps20UKoBImUEyooEwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="QUPzYlbcZ0icI4vvTqCkaQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">UserDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">UserDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="tnx1cWWgT0aFjnhJ3WlijQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40747,16 +40794,16 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[77]" type="UMLInterfaceView" guid="yp3t+H7npkKro0ZkKjVulgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1480</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1452</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">384</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">87</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">FNhoV9vetUmLWlPY2ulY+QAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="Azbn4nidqkWS3kbN6roxiAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="nzQiIlvCAUyYBkjU8H+lnQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">ResponseDao</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ResponseDaoLocal</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="uWSUnnN3i0aaOsBts+Qb5QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40803,7 +40850,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[79]" type="UMLRealizationView" guid="DSZhI8qKGkad4yuQ+DlJygAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1636,404;1533,397</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1636,404;1520,396</XPD:ATTR>
 <XPD:REF name="Model">yIK0KeljCU+eWhH0h0p5EwAA</XPD:REF>
 <XPD:REF name="Head">yp3t+H7npkKro0ZkKjVulgAA</XPD:REF>
 <XPD:REF name="Tail">RAdHEMTQgU2HnojgAXA2/AAA</XPD:REF>
@@ -40829,7 +40876,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[80]" type="UMLDependencyView" guid="i1qHwG56hkOx5kqUwKiv5wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1384,219;1517,193</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1384,220;1503,196</XPD:ATTR>
 <XPD:REF name="Model">ksVwb1wch0KFkKFCcPP9IwAA</XPD:REF>
 <XPD:REF name="Head">94CNsA7+3EqYWjdYTu2MrwAA</XPD:REF>
 <XPD:REF name="Tail">mFIjH5gUo0ejtKVg93owhgAA</XPD:REF>
@@ -40855,7 +40902,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[81]" type="UMLDependencyView" guid="GDTiKFLLpU+bv3W0DObJLAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1384,263;1516,267</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1384,264;1503,266</XPD:ATTR>
 <XPD:REF name="Model">1t79d3dQakeP8EH+W0WYdQAA</XPD:REF>
 <XPD:REF name="Head">gmF/HaQrLk+F38OHNNPhAgAA</XPD:REF>
 <XPD:REF name="Tail">mFIjH5gUo0ejtKVg93owhgAA</XPD:REF>
@@ -40881,7 +40928,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[82]" type="UMLDependencyView" guid="HgLil2ttZUyCkgie8/JReAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1384,302;1515,333</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1384,305;1501,333</XPD:ATTR>
 <XPD:REF name="Model">/UJBvAqeU0y0EsrPbjT1/QAA</XPD:REF>
 <XPD:REF name="Head">IE+dhVqVZ0iUlFCeum6igQAA</XPD:REF>
 <XPD:REF name="Tail">mFIjH5gUo0ejtKVg93owhgAA</XPD:REF>
@@ -40907,7 +40954,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[83]" type="UMLDependencyView" guid="GnQto6jScUy2W9n56vMcPwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">407,325;891,269</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">407,325;890,269</XPD:ATTR>
 <XPD:REF name="Model">Eqg5xUhSvUaWZy+7SYoU+QAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">PmECl0PBBUWSepPkxbccywAA</XPD:REF>
@@ -40933,7 +40980,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[84]" type="UMLDependencyView" guid="ERhFVfanj0Oq6bGXBVnSiwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1298,328;1516,490</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1293,328;1498,490</XPD:ATTR>
 <XPD:REF name="Model">vkwvzukuv0GsVBbgzKv1LgAA</XPD:REF>
 <XPD:REF name="Head">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
 <XPD:REF name="Tail">mFIjH5gUo0ejtKVg93owhgAA</XPD:REF>
@@ -40959,7 +41006,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[85]" type="UMLDependencyView" guid="q0iJshe4TkC6W8cHSchfbQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">795,368;900,368;901,277</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">795,368;900,368;900,277</XPD:ATTR>
 <XPD:REF name="Model">liKKz9oGCkKSOs8cQj64tgAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">Sdz5sAXVZE6JbNZqLJbL5QAA</XPD:REF>
@@ -40985,7 +41032,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[86]" type="UMLDependencyView" guid="HuoxfTA6QEaZqX3dq+VQfQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1262,672;1516,504</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1256,672;1498,504</XPD:ATTR>
 <XPD:REF name="Model">KG7rMCAgIUqIIl73DD5+bgAA</XPD:REF>
 <XPD:REF name="Head">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
 <XPD:REF name="Tail">z0USq3nCjEym37VaLBZiTwAA</XPD:REF>
@@ -41011,7 +41058,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[87]" type="UMLDependencyView" guid="kncbsXyPYEeY4rQZzSkTYQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1262,727;1519,659</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1262,725;1501,658</XPD:ATTR>
 <XPD:REF name="Model">TZnMkt7mVEWTvY+lVySSiAAA</XPD:REF>
 <XPD:REF name="Head">tHaMsvmkqkCY7jM1F1d2RgAA</XPD:REF>
 <XPD:REF name="Tail">z0USq3nCjEym37VaLBZiTwAA</XPD:REF>
@@ -41037,7 +41084,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[88]" type="UMLDependencyView" guid="uUfnESlVGkiutCBsbivzaQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1262,762;1516,761</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1262,761;1503,756</XPD:ATTR>
 <XPD:REF name="Model">CQ+i/fzuo0qH7+IK0xllZQAA</XPD:REF>
 <XPD:REF name="Head">XKS97hosYE2V72vwWvSCqAAA</XPD:REF>
 <XPD:REF name="Tail">z0USq3nCjEym37VaLBZiTwAA</XPD:REF>
@@ -41063,7 +41110,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[89]" type="UMLDependencyView" guid="/nFPAQ2150S/RqTLeUzSzwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">625,658;890,648</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">625,658;897,648</XPD:ATTR>
 <XPD:REF name="Model">QWPEf4o/7kmNYUacB+6yVgAA</XPD:REF>
 <XPD:REF name="Head">YlhuFAl9bEGBUSWS9K1f5QAA</XPD:REF>
 <XPD:REF name="Tail">dOIzZ/ckuE2sPaZYUWdTOAAA</XPD:REF>
@@ -41089,7 +41136,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[90]" type="UMLDependencyView" guid="E4f46OFvDU+V0SUeU4hJCAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">625,689;648,696;904,696;905,764</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">625,689;648,696;904,696;909,760</XPD:ATTR>
 <XPD:REF name="Model">Deaq+j4pr0iOeiMEdbRi3AAA</XPD:REF>
 <XPD:REF name="Head">Vizu9nTkAk+P6W0G8sQwdAAA</XPD:REF>
 <XPD:REF name="Tail">dOIzZ/ckuE2sPaZYUWdTOAAA</XPD:REF>
@@ -41115,7 +41162,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[91]" type="UMLDependencyView" guid="xqNEeFEjfUKJC03UUQ1hbQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1145,398;1512,397</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1145,398;1499,396</XPD:ATTR>
 <XPD:REF name="Model">LZbUJdxcb0SppNnylW0PjgAA</XPD:REF>
 <XPD:REF name="Head">yp3t+H7npkKro0ZkKjVulgAA</XPD:REF>
 <XPD:REF name="Tail">r8T56Q/9VEmgD4geCi1HpQAA</XPD:REF>
@@ -41141,7 +41188,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[92]" type="UMLDependencyView" guid="bZeSEDztkUaH31jPxwNvPAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">992,396;960,396;960,268;912,267</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">992,396;960,396;904,277</XPD:ATTR>
 <XPD:REF name="Model">eDR6s8ZSFEiiiFhDs79O9AAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">r8T56Q/9VEmgD4geCi1HpQAA</XPD:REF>
@@ -41167,7 +41214,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[93]" type="UMLDependencyView" guid="K6uxFZ+/Ak23Iiaw6pcwhQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1145,441;1519,651</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1145,443;1501,651</XPD:ATTR>
 <XPD:REF name="Model">6POcjMrtoka/76j8ygKxWAAA</XPD:REF>
 <XPD:REF name="Head">tHaMsvmkqkCY7jM1F1d2RgAA</XPD:REF>
 <XPD:REF name="Tail">r8T56Q/9VEmgD4geCi1HpQAA</XPD:REF>
@@ -41193,7 +41240,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[94]" type="UMLDependencyView" guid="3Q2+UKB/mkWGYdGx6kV5zQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1145,421;1372,496;1516,496</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1145,421;1372,496;1498,495</XPD:ATTR>
 <XPD:REF name="Model">/P/WXeId60e/OH2iasZ4BgAA</XPD:REF>
 <XPD:REF name="Head">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
 <XPD:REF name="Tail">r8T56Q/9VEmgD4geCi1HpQAA</XPD:REF>
@@ -41245,16 +41292,19 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[96]" type="UMLInterfaceView" guid="3+6kg2XvAUmpqXc4UiHzWAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">864</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">896</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">81</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">848</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">900</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">126</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">43</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
+<XPD:ATTR name="ShowProperty" type="boolean">True</XPD:ATTR>
+<XPD:ATTR name="WordWrap" type="boolean">True</XPD:ATTR>
 <XPD:REF name="Model">zvm+sI8Likqt2oiddTJUrgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="2wc8s7MHgUuthSZ+I6LgjwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="0KfdmvtNQEuYLHUHUHmLKgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">EmailNotifier</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">EmailNotifierRemote</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="NbmyUhhcVUCbIn4OBXXfOwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -41275,13 +41325,13 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[97]" type="UMLRealizationView" guid="qm7QTuZXPEWh96x3Rz5MVQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">988,908;914,908</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">988,910;920,909</XPD:ATTR>
 <XPD:REF name="Model">RngBIqpz4k2ftjaatV58FgAA</XPD:REF>
 <XPD:REF name="Head">3+6kg2XvAUmpqXc4UiHzWAAA</XPD:REF>
 <XPD:REF name="Tail">k5ruXN8RiEaDZVSEbZTW9QAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="yTXhE543E0y/PDfNOuTU2gAA">
-<XPD:ATTR name="Alpha" type="real">4.7123873267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-1.1525729250511</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">9.8488578017961</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;implements&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">RngBIqpz4k2ftjaatV58FgAA</XPD:REF>
 </XPD:OBJ>
@@ -41332,7 +41382,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[99]" type="UMLDependencyView" guid="aQS8JoqKWEKNDm4tvXvtzwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">598,775;604,776;894,776</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">598,775;604,776;901,772</XPD:ATTR>
 <XPD:REF name="Model">i+c4bBNDfkmOBJja1sXbVgAA</XPD:REF>
 <XPD:REF name="Head">Vizu9nTkAk+P6W0G8sQwdAAA</XPD:REF>
 <XPD:REF name="Tail">3kLGoXwfY06X25TlK+zyhQAA</XPD:REF>
@@ -41410,7 +41460,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[102]" type="UMLDependencyView" guid="8zqymJiw8kWShPFPwdKCYwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">795,456;900,456;901,277</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">795,456;900,456;900,277</XPD:ATTR>
 <XPD:REF name="Model">KTgM+bIRR0qhnhpLOilakQAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">0HzvMb3fME6YxHR91ngevQAA</XPD:REF>
@@ -41436,7 +41486,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[103]" type="UMLDependencyView" guid="QsazZIQ9tkGmSlEn3l54iwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">791,544;900,544;901,277</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">791,544;900,544;900,277</XPD:ATTR>
 <XPD:REF name="Model">twtwDcyZn0yWVVHmc+YtWAAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">QDuN/hWaDUaexAJJiuMrAQAA</XPD:REF>
@@ -41462,7 +41512,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[104]" type="UMLDependencyView" guid="Js4IrduBd0CKGJJwiktNJwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">988,754;936,752;936,304;911,277</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">988,754;936,752;936,304;910,277</XPD:ATTR>
 <XPD:REF name="Model">NbjZ89KPxkCN/CoSXU/C1AAA</XPD:REF>
 <XPD:REF name="Head">PC34S3JuEkyo8YnFmiKs8AAA</XPD:REF>
 <XPD:REF name="Tail">z0USq3nCjEym37VaLBZiTwAA</XPD:REF>
@@ -42362,7 +42412,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[123]" type="UMLDependencyView" guid="fhJ4jsAo/0+ecfiV40GwEAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">657,822;890,657</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">657,823;897,656</XPD:ATTR>
 <XPD:REF name="Model">ZxEJcz3JLUa/CNqQOgQBUQAA</XPD:REF>
 <XPD:REF name="Head">YlhuFAl9bEGBUSWS9K1f5QAA</XPD:REF>
 <XPD:REF name="Tail">WwXP1UfZR0as+fM4kGL2VwAA</XPD:REF>
@@ -42618,7 +42668,7 @@ as JMS provider
 <XPD:OBJ name="OwnedViews[128]" type="UMLDependencyView" guid="hSi0oj2/okelxDYUvcaeNQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1150,969;1336,968;1523,505</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1170,969;1336,968;1506,505</XPD:ATTR>
 <XPD:REF name="Model">EGLWEiNNrEC315Bkz3mJaAAA</XPD:REF>
 <XPD:REF name="Head">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
 <XPD:REF name="Tail">cqYWSJc7BEKziJxbis598gAA</XPD:REF>
@@ -44624,7 +44674,7 @@ as JMS provider
 <XPD:REF name="ClientDependencies[0]">ctkeaBU02Eab7vyc/WZZhQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[62]" type="UMLInterface" guid="YMQ8DtNsX0W4Af9jWvtoqwAA">
-<XPD:ATTR name="Name" type="string">PatientManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">PatientManagerLocal</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">Local</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
@@ -44662,7 +44712,7 @@ as JMS provider
 <XPD:REF name="Views[3]">KcfAs5E0XkmT7ORBBW7pCQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[64]" type="UMLInterface" guid="ezH9w25/DEaw6HBxaHcXfgAA">
-<XPD:ATTR name="Name" type="string">RequestManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RequestManagerLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">Vizu9nTkAk+P6W0G8sQwdAAA</XPD:REF>
@@ -44693,7 +44743,7 @@ as JMS provider
 <XPD:REF name="Views[3]">Giad9EG/MkmHo0jQuXvGTAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[66]" type="UMLInterface" guid="ArKyZpJP/kyVFSyJYUhOPQAA">
-<XPD:ATTR name="Name" type="string">ResponseManager</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ResponseManagerLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">YlhuFAl9bEGBUSWS9K1f5QAA</XPD:REF>
@@ -44771,7 +44821,7 @@ as JMS provider
 <XPD:REF name="Views[3]">v0oBrO1lu0Kio/h7KtVsAgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[73]" type="UMLInterface" guid="Mrz++033IUm+I4dv1JxrUgAA">
-<XPD:ATTR name="Name" type="string">RichContentSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RichContentSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">94CNsA7+3EqYWjdYTu2MrwAA</XPD:REF>
@@ -44793,7 +44843,7 @@ as JMS provider
 <XPD:REF name="Views[3]">r79tkyvTMUa9dhhhu4xnTwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[75]" type="UMLInterface" guid="EkPt042Z5EG7g6QXvDefOAAA">
-<XPD:ATTR name="Name" type="string">PrescriptionSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">PrescriptionSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">gmF/HaQrLk+F38OHNNPhAgAA</XPD:REF>
@@ -44815,7 +44865,7 @@ as JMS provider
 <XPD:REF name="Views[3]">MtalpNtTjkadaw/BRFqPdwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[77]" type="UMLInterface" guid="bJIMsTSGO0Ch4mktXG8fpwAA">
-<XPD:ATTR name="Name" type="string">HistorySystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">HistorySystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">IE+dhVqVZ0iUlFCeum6igQAA</XPD:REF>
@@ -44837,7 +44887,7 @@ as JMS provider
 <XPD:REF name="Views[3]">mcTTEKQPEkmWTzqINkl3HQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[79]" type="UMLInterface" guid="5P/EEtcCxEWV+fWcP6O8OgAA">
-<XPD:ATTR name="Name" type="string">FileSystemDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">FileSystemDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">FUY7WfQJdU+o0yFzUPlWgAAA</XPD:REF>
@@ -44866,7 +44916,7 @@ as JMS provider
 <XPD:REF name="Views[3]">Dr7AvTcQ3EO5nTej5yCjYwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[81]" type="UMLInterface" guid="s5R3TdYbrkK1N6ps3wi35AAA">
-<XPD:ATTR name="Name" type="string">RequestDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">RequestDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">XKS97hosYE2V72vwWvSCqAAA</XPD:REF>
@@ -44888,7 +44938,7 @@ as JMS provider
 <XPD:REF name="Views[3]">P3MfIDgZiEy+47/y5vd/iQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[83]" type="UMLInterface" guid="GgQTgYMTDE+E0x84jY2VOAAA">
-<XPD:ATTR name="Name" type="string">MessagingDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">MessagingDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">tHaMsvmkqkCY7jM1F1d2RgAA</XPD:REF>
@@ -44914,7 +44964,7 @@ as JMS provider
 <XPD:REF name="Views[3]">snKcuhVaU0S14lDsXR6pwwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[85]" type="UMLInterface" guid="sLGGOXNjpEeTSUlyCBwZhQAA">
-<XPD:ATTR name="Name" type="string">UserDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">UserDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">6QwDDoQud0mpu4gq2p/WMQAA</XPD:REF>
@@ -44925,7 +44975,7 @@ as JMS provider
 <XPD:REF name="SupplierDependencies[1]">ve1Br5KN/EORACZPtRk5DwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[86]" type="UMLInterface" guid="FNhoV9vetUmLWlPY2ulY+QAA">
-<XPD:ATTR name="Name" type="string">ResponseDao</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">ResponseDaoLocal</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">yp3t+H7npkKro0ZkKjVulgAA</XPD:REF>
@@ -45154,7 +45204,8 @@ as JMS provider
 <XPD:REF name="Views[3]">OTbhoF4gpEGK18B2gSLnowAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[108]" type="UMLInterface" guid="zvm+sI8Likqt2oiddTJUrgAA">
-<XPD:ATTR name="Name" type="string">EmailNotifier</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">EmailNotifierRemote</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">Remote</XPD:ATTR>
 <XPD:REF name="Namespace">YUieHIj4sEGW5eaCdMsnggAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">3+6kg2XvAUmpqXc4UiHzWAAA</XPD:REF>
