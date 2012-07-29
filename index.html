@@ -24,16 +24,16 @@
 				<td>Krzysztof Maslak</td>
 			</tr>
 			<tr>
+				<td>Document date</td>
+				<td>29 July 2012</td>
+			</tr>
+			<tr>
 				<td>Accompanied documents</td>
 				<td><a href="TeamDoctor.pdf">Requirements Document</a><td>
 			</tr>
 			<tr>
 				<td>Notes</td>
 				<td>To view diagrams First 'click to enlarge'</td>
-			</tr>
-			<tr>
-				<td>Document date</td>
-				<td>28 July 2012</td>
 			</tr>
 		</table>
 		<div id="tblCnt">
@@ -88,45 +88,47 @@
 		</div>
 		<div id="sysoverview">
 			<a name="sysoverview"></a><h3>2. Brief System Overview</h3>
-			TeamDoctor system was designed as a Java Enterprise Edition 5 application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives. TeamDoctor solution was designed to use JDBC in data access layer. Data access layer was designed as a set of Stateless Session Beans. All pages are accessible only for logged in users. Authentication mechanism will be provided by the container accompanied by JDBC realm.
-	
+			TeamDoctor system was designed as a Java Enterprise application accessible by end users (doctors or consultants) through web browser. System was designed to be highly available across North America, Europe, Asia with data centres located on those three continents. Provided design allows it to work on 'commodity' computers, not needing any expensive infrastructure, to meet one of the business goals to reduce cost of specialized resources. Data used in TeamDoctor system is stored in synchronous multi-master relational database cluster. Any rich content files attached to request going through the system will be stored in RDBS in form of metadata and the file content will be replicated across data centres in secure, durable way using asynchronous messages with JMS technology and stored on local hard drives. All pages are available only for logged in users. Authorization and authentication will be provided by the container accompanied with JDBC realm.
 				
 		</div>
 		<div id="classdiag">
 			<a name="classdiag"></a><h3>3. Class Diagram</h3>
-			<img src="class_diagram.jpg" style="width:900px;"/><br/>
+			<a href="class_diagram.jpg"><img src="class_diagram.jpg" style="width:900px;"/></a><br/>
 			<a href="class_diagram.jpg">Click to enlarge</a>
 		</div>
 		<div id="compdiag">
 			<a name="compdiag"></a><h3>4. Component Diagram</h3>
-			<img src="component_diagram.jpg" style="width:900px;" /><br/>
+			<a href="component_diagram.jpg"><img src="component_diagram.jpg" style="width:900px;" /></a><br/>
 			<a href="component_diagram.jpg">Click to enlarge</a>
 		</div>
 		<div id="depdiag">
 			<a name="depdiag"></a><h3>5. Deployment Diagram</h3>		
-			<img src="deployment_diagram.jpg" style="width:900px;"/><br/>
+			<a href="deployment_diagram.jpg"><img src="deployment_diagram.jpg" style="width:900px;"/></a><br/>
 			<a href="deployment_diagram.jpg">Click to enlarge</a>
+			<h3>Messaging System Deployment Diagram</h3>
+		        <a href="messaging_deployment_diagram.jpg"><img src="messaging_deployment_diagram.jpg"/></a><br/>
+			<a href="messaging_deployment_diagram.jpg">Click to enlarge</a>	
 		</div>
 		<div id="seqdiag">
 			<a name="seqdiag"></a><h3>6. Sequence Diagrams</h3>
 			<div id="postreq">
 				<a name="postreq"></a><h4>6.1. Post Request</h4>
-				<img src="post_request_seq_diagram.jpg" style="width:900px;"/><br/>
+				<a href="post_request_seq_diagram.jpg"><img src="post_request_seq_diagram.jpg" style="width:900px;"/></a><br/>
 				<a href="post_request_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="provadv">
 				<a name="provadv"></a><h4>6.2. Provide Advice</h4>
-				<img src="provide_advice_seq_diagram.jpg" style="width:900px;"/><br/>
+				<a href="provide_advice_seq_diagram.jpg"><img src="provide_advice_seq_diagram.jpg" style="width:900px;"/></a><br/>
 				<a href="provide_advice_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="postclar">
 				<a name="postclar"></a><h4>6.3. Review Advice, Request Clarification</h4>
-				<img src="review_advice_request_clarification_seq_diagram.jpg" style="width:900px;"/><br/>
-				<a href="review_advice_request_clarification_seq_diagram.jpg">Click to enlarge</a>
+				<a href="review_request_clarification_seq_diagram.jpg"><img src="review_request_clarification_seq_diagram.jpg" style="width:900px;"/></a><br/>
+				<a href="review_request_clarification_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 			<div id="respreq">
 				<a name="respreq"></a><h4>6.4. Respond to Additional Request</h4>
-				<img src="respond_to_additional_request_seq_diagram.jpg" style="width:900px;"/><br/>
+				<a href="respond_to_additional_request_seq_diagram.jpg"><img src="respond_to_additional_request_seq_diagram.jpg" style="width:900px;"/></a><br/>
 				<a href="respond_to_additional_request_seq_diagram.jpg">Click to enlarge</a>
 			</div>
 		</div>
@@ -143,7 +145,7 @@
 				</li>
 				<li>
 					New file attached to request (X-ray or MRI scan), that does not exist yet in external system, is not available/was not replicated yet in other data center when reviewing request.
-					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> The issue was not included in sequence diagrams, as this is less likely scenario as data centres operate in different time zones, their business hours are different. As a mitigation though, user should be presented with loading panel and explicit message. Cometd technology could be used to check file availability and in case of successful replication file could be displayed to end user.</div> 
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span>User should be presented with loading panel and explicit message. Cometd technology could be used to check file availability and in case of successful replication file could be displayed to end user.</div> 
 				</li>
 				<li>
 					Data center can incur technical problems.<br/>
