@@ -141,7 +141,7 @@
 				</li>
 				<li>
 					File in external system was updated after request was created. Issue here is that system was designed to by highly available, data is stored in clustered RDBS but files are replicated using asynchronous messages. Request itself may be available to review in a given data center but files might not yet be replicated, which will cause TeamDoctor system to make a request to external system to download again attached file. Downloaded file might be different then file attached when creating request.<br/>
-					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> Fallback to try to download file from external system in case of missing file locally was included in sequence diagrams but specific handling for this issue was not as this is exceptional case. When trying to view not in sync file update request status to canceled and send cancelation message to user that created the request.</div>
+					<div class="mitigation"><span class="mitigationTitle">Mitigation:</span> Fallback to try to download file from external system in case of missing file locally was included in sequence diagrams but specific handling for this issue was not as this is exceptional case. When trying to view not in sync file update request state to canceled and send cancelation message to user that created the request.</div>
 				</li>
 				<li>
 					New file attached to request (X-ray or MRI scan), that does not exist yet in external system, is not available/was not replicated yet in other data center when reviewing request.
